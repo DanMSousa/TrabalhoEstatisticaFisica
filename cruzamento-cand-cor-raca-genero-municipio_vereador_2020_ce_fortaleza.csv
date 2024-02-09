@@ -1,0 +1,1078 @@
+sg_uf;nm_ue;ds_cor_raca;cd_cor_raca;ds_sexo;cd_sexo;qt_candidato;qt_cand_eleitos;qt_cand_turno_2;qt_cand_nao_eleitos;qt_cand_suplentes;qt_cand_nao_informados
+CE;ABAIARA;Amarela;04;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;ABAIARA;Branca;01;Feminino;4;8,0;1,0;0,0;0,0;7,0;0,0
+CE;ABAIARA;Branca;01;Masculino;2;11,0;6,0;0,0;0,0;5,0;0,0
+CE;ABAIARA;Parda;03;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;ABAIARA;Parda;03;Masculino;2;4,0;1,0;0,0;0,0;3,0;0,0
+CE;ABAIARA;Preta;02;Feminino;4;3,0;0,0;0,0;0,0;3,0;0,0
+CE;ABAIARA;Preta;02;Masculino;2;6,0;1,0;0,0;0,0;5,0;0,0
+CE;ACARAPE;Amarela;04;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;ACARAPE;Branca;01;Feminino;4;9,0;2,0;0,0;0,0;7,0;0,0
+CE;ACARAPE;Branca;01;Masculino;2;12,0;2,0;0,0;2,0;8,0;0,0
+CE;ACARAPE;Parda;03;Feminino;4;7,0;1,0;0,0;2,0;4,0;0,0
+CE;ACARAPE;Parda;03;Masculino;2;20,0;4,0;0,0;4,0;12,0;0,0
+CE;ACARAPE;Preta;02;Feminino;4;4,0;0,0;0,0;1,0;3,0;0,0
+CE;ACARAPE;Preta;02;Masculino;2;6,0;2,0;0,0;1,0;3,0;0,0
+CE;ACARAÚ;Branca;01;Feminino;4;14,0;1,0;0,0;2,0;11,0;0,0
+CE;ACARAÚ;Branca;01;Masculino;2;26,0;9,0;0,0;1,0;16,0;0,0
+CE;ACARAÚ;Parda;03;Feminino;4;17,0;0,0;0,0;1,0;14,0;2,0
+CE;ACARAÚ;Parda;03;Masculino;2;31,0;5,0;0,0;0,0;26,0;0,0
+CE;ACARAÚ;Preta;02;Masculino;2;3,0;0,0;0,0;1,0;2,0;0,0
+CE;ACOPIARA;Branca;01;Feminino;4;15,0;2,0;0,0;3,0;9,0;1,0
+CE;ACOPIARA;Branca;01;Masculino;2;17,0;6,0;0,0;4,0;4,0;3,0
+CE;ACOPIARA;Parda;03;Feminino;4;6,0;1,0;0,0;1,0;4,0;0,0
+CE;ACOPIARA;Parda;03;Masculino;2;25,0;6,0;0,0;1,0;18,0;0,0
+CE;ACOPIARA;Preta;02;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;AIUABA;Branca;01;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;AIUABA;Branca;01;Masculino;2;8,0;3,0;0,0;0,0;5,0;0,0
+CE;AIUABA;Parda;03;Feminino;4;5,0;2,0;0,0;0,0;3,0;0,0
+CE;AIUABA;Parda;03;Masculino;2;7,0;4,0;0,0;0,0;3,0;0,0
+CE;AIUABA;Preta;02;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;AIUABA;Preta;02;Masculino;2;2,0;2,0;0,0;0,0;0,0;0,0
+CE;ALCÂNTARAS;Branca;01;Feminino;4;6,0;1,0;0,0;2,0;3,0;0,0
+CE;ALCÂNTARAS;Branca;01;Masculino;2;8,0;5,0;0,0;1,0;2,0;0,0
+CE;ALCÂNTARAS;Parda;03;Feminino;4;5,0;0,0;0,0;0,0;5,0;0,0
+CE;ALCÂNTARAS;Parda;03;Masculino;2;14,0;3,0;0,0;3,0;8,0;0,0
+CE;ALCÂNTARAS;Preta;02;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;ALCÂNTARAS;Preta;02;Masculino;2;2,0;0,0;0,0;0,0;2,0;0,0
+CE;ALTANEIRA;Branca;01;Feminino;4;4,0;1,0;0,0;1,0;1,0;1,0
+CE;ALTANEIRA;Branca;01;Masculino;2;5,0;1,0;0,0;0,0;3,0;1,0
+CE;ALTANEIRA;Não Informado;06;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;ALTANEIRA;Parda;03;Feminino;4;3,0;2,0;0,0;0,0;1,0;0,0
+CE;ALTANEIRA;Parda;03;Masculino;2;5,0;3,0;0,0;0,0;2,0;0,0
+CE;ALTANEIRA;Preta;02;Masculino;2;3,0;2,0;0,0;1,0;0,0;0,0
+CE;ALTO SANTO;Branca;01;Feminino;4;7,0;0,0;0,0;7,0;0,0;0,0
+CE;ALTO SANTO;Branca;01;Masculino;2;6,0;0,0;0,0;6,0;0,0;0,0
+CE;ALTO SANTO;Parda;03;Feminino;4;10,0;1,0;0,0;3,0;6,0;0,0
+CE;ALTO SANTO;Parda;03;Masculino;2;29,0;10,0;0,0;15,0;4,0;0,0
+CE;ALTO SANTO;Preta;02;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;AMONTADA;Branca;01;Feminino;4;16,0;0,0;0,0;3,0;12,0;1,0
+CE;AMONTADA;Branca;01;Masculino;2;34,0;7,0;0,0;7,0;18,0;2,0
+CE;AMONTADA;Indígena;05;Feminino;4;4,0;0,0;0,0;2,0;2,0;0,0
+CE;AMONTADA;Indígena;05;Masculino;2;8,0;0,0;0,0;3,0;5,0;0,0
+CE;AMONTADA;Parda;03;Feminino;4;20,0;1,0;0,0;4,0;15,0;0,0
+CE;AMONTADA;Parda;03;Masculino;2;39,0;5,0;0,0;7,0;27,0;0,0
+CE;AMONTADA;Preta;02;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;AMONTADA;Preta;02;Masculino;2;5,0;0,0;0,0;0,0;5,0;0,0
+CE;ANTONINA DO NORTE;Branca;01;Feminino;4;7,0;2,0;0,0;0,0;5,0;0,0
+CE;ANTONINA DO NORTE;Branca;01;Masculino;2;8,0;4,0;0,0;0,0;3,0;1,0
+CE;ANTONINA DO NORTE;Parda;03;Feminino;4;7,0;3,0;0,0;2,0;2,0;0,0
+CE;ANTONINA DO NORTE;Parda;03;Masculino;2;10,0;0,0;0,0;3,0;5,0;2,0
+CE;ANTONINA DO NORTE;Preta;02;Masculino;2;4,0;0,0;0,0;1,0;3,0;0,0
+CE;APUIARÉS;Branca;01;Feminino;4;2,0;1,0;0,0;0,0;1,0;0,0
+CE;APUIARÉS;Branca;01;Masculino;2;6,0;1,0;0,0;1,0;4,0;0,0
+CE;APUIARÉS;Parda;03;Feminino;4;11,0;2,0;0,0;1,0;7,0;1,0
+CE;APUIARÉS;Parda;03;Masculino;2;13,0;5,0;0,0;1,0;7,0;0,0
+CE;APUIARÉS;Preta;02;Masculino;2;2,0;0,0;0,0;0,0;2,0;0,0
+CE;AQUIRAZ;Branca;01;Feminino;4;20,0;0,0;0,0;7,0;11,0;2,0
+CE;AQUIRAZ;Branca;01;Masculino;2;26,0;3,0;0,0;6,0;15,0;2,0
+CE;AQUIRAZ;Parda;03;Feminino;4;25,0;1,0;0,0;7,0;16,0;1,0
+CE;AQUIRAZ;Parda;03;Masculino;2;55,0;11,0;0,0;16,0;25,0;3,0
+CE;AQUIRAZ;Preta;02;Feminino;4;1,0;0,0;0,0;0,0;0,0;1,0
+CE;AQUIRAZ;Preta;02;Masculino;2;5,0;0,0;0,0;1,0;4,0;0,0
+CE;ARACATI;Amarela;04;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;ARACATI;Branca;01;Feminino;4;14,0;1,0;0,0;1,0;12,0;0,0
+CE;ARACATI;Branca;01;Masculino;2;34,0;8,0;0,0;2,0;24,0;0,0
+CE;ARACATI;Parda;03;Feminino;4;24,0;2,0;0,0;1,0;19,0;2,0
+CE;ARACATI;Parda;03;Masculino;2;48,0;5,0;0,0;5,0;34,0;4,0
+CE;ARACATI;Preta;02;Feminino;4;7,0;0,0;0,0;4,0;3,0;0,0
+CE;ARACATI;Preta;02;Masculino;2;8,0;0,0;0,0;0,0;8,0;0,0
+CE;ARACOIABA;Branca;01;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;ARACOIABA;Branca;01;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;ARACOIABA;Parda;03;Feminino;4;27,0;4,0;0,0;5,0;18,0;0,0
+CE;ARACOIABA;Parda;03;Masculino;2;48,0;7,0;0,0;5,0;35,0;1,0
+CE;ARACOIABA;Preta;02;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;ARACOIABA;Preta;02;Masculino;2;3,0;0,0;0,0;1,0;2,0;0,0
+CE;ARARENDÁ;Branca;01;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;ARARENDÁ;Parda;03;Feminino;4;8,0;2,0;0,0;0,0;6,0;0,0
+CE;ARARENDÁ;Parda;03;Masculino;2;13,0;7,0;0,0;0,0;5,0;1,0
+CE;ARARENDÁ;Preta;02;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;ARARIPE;Branca;01;Feminino;4;7,0;0,0;0,0;0,0;6,0;1,0
+CE;ARARIPE;Branca;01;Masculino;2;10,0;4,0;0,0;0,0;6,0;0,0
+CE;ARARIPE;Parda;03;Feminino;4;4,0;2,0;0,0;0,0;2,0;0,0
+CE;ARARIPE;Parda;03;Masculino;2;8,0;3,0;0,0;1,0;4,0;0,0
+CE;ARARIPE;Preta;02;Masculino;2;3,0;2,0;0,0;0,0;1,0;0,0
+CE;ARATUBA;Branca;01;Feminino;4;10,0;0,0;0,0;1,0;9,0;0,0
+CE;ARATUBA;Branca;01;Masculino;2;10,0;3,0;0,0;1,0;6,0;0,0
+CE;ARATUBA;Indígena;05;Feminino;4;1,0;1,0;0,0;0,0;0,0;0,0
+CE;ARATUBA;Indígena;05;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;ARATUBA;Parda;03;Feminino;4;15,0;1,0;0,0;5,0;9,0;0,0
+CE;ARATUBA;Parda;03;Masculino;2;37,0;4,0;0,0;7,0;26,0;0,0
+CE;ARATUBA;Preta;02;Masculino;2;2,0;0,0;0,0;1,0;1,0;0,0
+CE;ARNEIROZ;Branca;01;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;ARNEIROZ;Branca;01;Masculino;2;5,0;1,0;0,0;0,0;3,0;1,0
+CE;ARNEIROZ;Parda;03;Feminino;4;6,0;4,0;0,0;0,0;2,0;0,0
+CE;ARNEIROZ;Parda;03;Masculino;2;7,0;4,0;0,0;0,0;3,0;0,0
+CE;ARNEIROZ;Preta;02;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;ASSARÉ;Branca;01;Feminino;4;13,0;2,0;0,0;2,0;9,0;0,0
+CE;ASSARÉ;Branca;01;Masculino;2;23,0;7,0;0,0;3,0;13,0;0,0
+CE;ASSARÉ;Parda;03;Feminino;4;7,0;0,0;0,0;3,0;4,0;0,0
+CE;ASSARÉ;Parda;03;Masculino;2;14,0;2,0;0,0;2,0;10,0;0,0
+CE;ASSARÉ;Preta;02;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;ASSARÉ;Preta;02;Masculino;2;5,0;0,0;0,0;5,0;0,0;0,0
+CE;AURORA;Branca;01;Feminino;4;4,0;1,0;0,0;2,0;1,0;0,0
+CE;AURORA;Branca;01;Masculino;2;6,0;0,0;0,0;3,0;2,0;1,0
+CE;AURORA;Parda;03;Feminino;4;10,0;2,0;0,0;1,0;7,0;0,0
+CE;AURORA;Parda;03;Masculino;2;22,0;8,0;0,0;2,0;12,0;0,0
+CE;AURORA;Preta;02;Feminino;4;1,0;0,0;0,0;1,0;0,0;0,0
+CE;AURORA;Preta;02;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;BAIXIO;Branca;01;Feminino;4;5,0;2,0;0,0;0,0;3,0;0,0
+CE;BAIXIO;Branca;01;Masculino;2;5,0;1,0;0,0;1,0;3,0;0,0
+CE;BAIXIO;Parda;03;Feminino;4;7,0;4,0;0,0;0,0;3,0;0,0
+CE;BAIXIO;Parda;03;Masculino;2;9,0;2,0;0,0;0,0;7,0;0,0
+CE;BANABUIÚ;Amarela;04;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;BANABUIÚ;Branca;01;Feminino;4;13,0;2,0;0,0;0,0;11,0;0,0
+CE;BANABUIÚ;Branca;01;Masculino;2;17,0;4,0;0,0;0,0;13,0;0,0
+CE;BANABUIÚ;Parda;03;Feminino;4;10,0;1,0;0,0;3,0;6,0;0,0
+CE;BANABUIÚ;Parda;03;Masculino;2;25,0;3,0;0,0;6,0;16,0;0,0
+CE;BANABUIÚ;Preta;02;Masculino;2;3,0;1,0;0,0;0,0;1,0;1,0
+CE;BARBALHA;Amarela;04;Feminino;4;2,0;0,0;0,0;2,0;0,0;0,0
+CE;BARBALHA;Amarela;04;Masculino;2;3,0;0,0;0,0;3,0;0,0;0,0
+CE;BARBALHA;Branca;01;Feminino;4;10,0;0,0;0,0;3,0;7,0;0,0
+CE;BARBALHA;Branca;01;Masculino;2;20,0;3,0;0,0;3,0;13,0;1,0
+CE;BARBALHA;Parda;03;Feminino;4;40,0;2,0;0,0;3,0;35,0;0,0
+CE;BARBALHA;Parda;03;Masculino;2;70,0;8,0;0,0;9,0;52,0;1,0
+CE;BARBALHA;Preta;02;Feminino;4;3,0;0,0;0,0;1,0;2,0;0,0
+CE;BARBALHA;Preta;02;Masculino;2;18,0;2,0;0,0;1,0;15,0;0,0
+CE;BARREIRA;Amarela;04;Feminino;4;7,0;0,0;0,0;0,0;7,0;0,0
+CE;BARREIRA;Amarela;04;Masculino;2;5,0;2,0;0,0;0,0;3,0;0,0
+CE;BARREIRA;Branca;01;Feminino;4;4,0;0,0;0,0;0,0;4,0;0,0
+CE;BARREIRA;Branca;01;Masculino;2;9,0;4,0;0,0;0,0;5,0;0,0
+CE;BARREIRA;Parda;03;Feminino;4;11,0;0,0;0,0;3,0;8,0;0,0
+CE;BARREIRA;Parda;03;Masculino;2;29,0;3,0;0,0;6,0;20,0;0,0
+CE;BARREIRA;Preta;02;Feminino;4;3,0;0,0;0,0;0,0;3,0;0,0
+CE;BARREIRA;Preta;02;Masculino;2;7,0;2,0;0,0;0,0;5,0;0,0
+CE;BARRO;Branca;01;Feminino;4;7,0;1,0;0,0;1,0;5,0;0,0
+CE;BARRO;Branca;01;Masculino;2;16,0;3,0;0,0;5,0;8,0;0,0
+CE;BARRO;Parda;03;Feminino;4;9,0;0,0;0,0;2,0;7,0;0,0
+CE;BARRO;Parda;03;Masculino;2;15,0;7,0;0,0;2,0;6,0;0,0
+CE;BARRO;Preta;02;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;BARROQUINHA;Branca;01;Feminino;4;3,0;2,0;0,0;0,0;1,0;0,0
+CE;BARROQUINHA;Branca;01;Masculino;2;3,0;2,0;0,0;0,0;1,0;0,0
+CE;BARROQUINHA;Parda;03;Feminino;4;5,0;2,0;0,0;0,0;3,0;0,0
+CE;BARROQUINHA;Parda;03;Masculino;2;8,0;5,0;0,0;0,0;3,0;0,0
+CE;BARROQUINHA;Preta;02;Masculino;2;2,0;0,0;0,0;0,0;2,0;0,0
+CE;BATURITÉ;Branca;01;Feminino;4;11,0;0,0;0,0;1,0;10,0;0,0
+CE;BATURITÉ;Branca;01;Masculino;2;12,0;3,0;0,0;3,0;6,0;0,0
+CE;BATURITÉ;Indígena;05;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;BATURITÉ;Parda;03;Feminino;4;25,0;3,0;0,0;3,0;18,0;1,0
+CE;BATURITÉ;Parda;03;Masculino;2;49,0;6,0;0,0;5,0;38,0;0,0
+CE;BATURITÉ;Preta;02;Feminino;4;3,0;0,0;0,0;1,0;2,0;0,0
+CE;BATURITÉ;Preta;02;Masculino;2;10,0;1,0;0,0;0,0;9,0;0,0
+CE;BEBERIBE;Amarela;04;Feminino;4;3,0;0,0;0,0;0,0;3,0;0,0
+CE;BEBERIBE;Amarela;04;Masculino;2;2,0;0,0;0,0;0,0;2,0;0,0
+CE;BEBERIBE;Branca;01;Feminino;4;14,0;0,0;0,0;3,0;11,0;0,0
+CE;BEBERIBE;Branca;01;Masculino;2;18,0;3,0;0,0;7,0;8,0;0,0
+CE;BEBERIBE;Parda;03;Feminino;4;25,0;0,0;0,0;9,0;14,0;2,0
+CE;BEBERIBE;Parda;03;Masculino;2;66,0;11,0;0,0;16,0;36,0;3,0
+CE;BEBERIBE;Preta;02;Feminino;4;4,0;0,0;0,0;2,0;2,0;0,0
+CE;BEBERIBE;Preta;02;Masculino;2;8,0;1,0;0,0;3,0;4,0;0,0
+CE;BELA CRUZ;Branca;01;Masculino;2;3,0;0,0;0,0;2,0;1,0;0,0
+CE;BELA CRUZ;Parda;03;Feminino;4;24,0;2,0;0,0;10,0;12,0;0,0
+CE;BELA CRUZ;Parda;03;Masculino;2;48,0;11,0;0,0;16,0;21,0;0,0
+CE;BELA CRUZ;Preta;02;Feminino;4;2,0;0,0;0,0;2,0;0,0;0,0
+CE;BELA CRUZ;Preta;02;Masculino;2;2,0;0,0;0,0;2,0;0,0;0,0
+CE;BOA VIAGEM;Amarela;04;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;BOA VIAGEM;Amarela;04;Masculino;2;1,0;1,0;0,0;0,0;0,0;0,0
+CE;BOA VIAGEM;Branca;01;Feminino;4;6,0;4,0;0,0;2,0;0,0;0,0
+CE;BOA VIAGEM;Branca;01;Masculino;2;10,0;6,0;0,0;1,0;3,0;0,0
+CE;BOA VIAGEM;Não divulgável;-4;Não divulgável;-4;1,0;0,0;0,0;0,0;0,0;1,0
+CE;BOA VIAGEM;Parda;03;Feminino;4;8,0;1,0;0,0;1,0;6,0;0,0
+CE;BOA VIAGEM;Parda;03;Masculino;2;15,0;3,0;0,0;3,0;9,0;0,0
+CE;BOA VIAGEM;Preta;02;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;BREJO SANTO;Branca;01;Feminino;4;9,0;0,0;0,0;3,0;5,0;1,0
+CE;BREJO SANTO;Branca;01;Masculino;2;22,0;6,0;0,0;8,0;8,0;0,0
+CE;BREJO SANTO;Parda;03;Feminino;4;9,0;2,0;0,0;1,0;5,0;1,0
+CE;BREJO SANTO;Parda;03;Masculino;2;16,0;5,0;0,0;2,0;9,0;0,0
+CE;BREJO SANTO;Preta;02;Feminino;4;5,0;0,0;0,0;2,0;3,0;0,0
+CE;BREJO SANTO;Preta;02;Masculino;2;6,0;0,0;0,0;2,0;3,0;1,0
+CE;CAMOCIM;Amarela;04;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;CAMOCIM;Branca;01;Feminino;4;14,0;1,0;0,0;5,0;7,0;1,0
+CE;CAMOCIM;Branca;01;Masculino;2;18,0;4,0;0,0;2,0;12,0;0,0
+CE;CAMOCIM;Parda;03;Feminino;4;24,0;1,0;0,0;4,0;19,0;0,0
+CE;CAMOCIM;Parda;03;Masculino;2;61,0;9,0;0,0;11,0;41,0;0,0
+CE;CAMOCIM;Preta;02;Feminino;4;3,0;0,0;0,0;0,0;3,0;0,0
+CE;CAMOCIM;Preta;02;Masculino;2;5,0;0,0;0,0;0,0;5,0;0,0
+CE;CAMPOS SALES;Branca;01;Feminino;4;8,0;2,0;0,0;1,0;5,0;0,0
+CE;CAMPOS SALES;Branca;01;Masculino;2;10,0;4,0;0,0;2,0;4,0;0,0
+CE;CAMPOS SALES;Não Informado;06;Feminino;4;1,0;0,0;0,0;0,0;0,0;1,0
+CE;CAMPOS SALES;Não Informado;06;Masculino;2;1,0;0,0;0,0;0,0;0,0;1,0
+CE;CAMPOS SALES;Parda;03;Feminino;4;5,0;1,0;0,0;0,0;3,0;1,0
+CE;CAMPOS SALES;Parda;03;Masculino;2;11,0;4,0;0,0;2,0;5,0;0,0
+CE;CAMPOS SALES;Preta;02;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;CANINDÉ;Branca;01;Feminino;4;21,0;2,0;0,0;3,0;16,0;0,0
+CE;CANINDÉ;Branca;01;Masculino;2;23,0;3,0;0,0;5,0;14,0;1,0
+CE;CANINDÉ;Parda;03;Feminino;4;35,0;2,0;0,0;11,0;21,0;1,0
+CE;CANINDÉ;Parda;03;Masculino;2;86,0;8,0;0,0;17,0;57,0;4,0
+CE;CANINDÉ;Preta;02;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;CANINDÉ;Preta;02;Masculino;2;9,0;0,0;0,0;3,0;6,0;0,0
+CE;CAPISTRANO;Branca;01;Feminino;4;12,0;2,0;0,0;6,0;4,0;0,0
+CE;CAPISTRANO;Branca;01;Masculino;2;13,0;3,0;0,0;4,0;6,0;0,0
+CE;CAPISTRANO;Parda;03;Feminino;4;13,0;0,0;0,0;3,0;10,0;0,0
+CE;CAPISTRANO;Parda;03;Masculino;2;36,0;6,0;0,0;9,0;20,0;1,0
+CE;CAPISTRANO;Preta;02;Feminino;4;1,0;0,0;0,0;1,0;0,0;0,0
+CE;CAPISTRANO;Preta;02;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;CARIDADE;Branca;01;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;CARIDADE;Parda;03;Feminino;4;18,0;2,0;0,0;0,0;16,0;0,0
+CE;CARIDADE;Parda;03;Masculino;2;33,0;9,0;0,0;1,0;23,0;0,0
+CE;CARIDADE;Preta;02;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;CARIRIAÇU;Branca;01;Feminino;4;3,0;0,0;0,0;0,0;3,0;0,0
+CE;CARIRIAÇU;Branca;01;Masculino;2;7,0;2,0;0,0;0,0;5,0;0,0
+CE;CARIRIAÇU;Parda;03;Feminino;4;8,0;1,0;0,0;0,0;7,0;0,0
+CE;CARIRIAÇU;Parda;03;Masculino;2;12,0;8,0;0,0;0,0;4,0;0,0
+CE;CARIRIAÇU;Preta;02;Masculino;2;2,0;0,0;0,0;0,0;2,0;0,0
+CE;CARIRÉ;Branca;01;Feminino;4;9,0;3,0;0,0;1,0;4,0;1,0
+CE;CARIRÉ;Branca;01;Masculino;2;12,0;4,0;0,0;2,0;5,0;1,0
+CE;CARIRÉ;Parda;03;Feminino;4;3,0;0,0;0,0;1,0;2,0;0,0
+CE;CARIRÉ;Parda;03;Masculino;2;9,0;4,0;0,0;2,0;3,0;0,0
+CE;CARIÚS;Branca;01;Feminino;4;13,0;2,0;0,0;2,0;9,0;0,0
+CE;CARIÚS;Branca;01;Masculino;2;18,0;8,0;0,0;3,0;7,0;0,0
+CE;CARIÚS;Parda;03;Feminino;4;3,0;0,0;0,0;0,0;3,0;0,0
+CE;CARIÚS;Parda;03;Masculino;2;11,0;1,0;0,0;2,0;8,0;0,0
+CE;CARIÚS;Preta;02;Feminino;4;1,0;0,0;0,0;1,0;0,0;0,0
+CE;CARIÚS;Preta;02;Masculino;2;2,0;0,0;0,0;1,0;1,0;0,0
+CE;CARNAUBAL;Branca;01;Feminino;4;9,0;3,0;0,0;2,0;4,0;0,0
+CE;CARNAUBAL;Branca;01;Masculino;2;19,0;7,0;0,0;3,0;8,0;1,0
+CE;CARNAUBAL;Parda;03;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;CARNAUBAL;Parda;03;Masculino;2;2,0;1,0;0,0;1,0;0,0;0,0
+CE;CARNAUBAL;Preta;02;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;CASCAVEL;Amarela;04;Masculino;2;2,0;0,0;0,0;0,0;2,0;0,0
+CE;CASCAVEL;Branca;01;Feminino;4;8,0;0,0;0,0;4,0;4,0;0,0
+CE;CASCAVEL;Branca;01;Masculino;2;18,0;2,0;0,0;5,0;9,0;2,0
+CE;CASCAVEL;Parda;03;Feminino;4;33,0;1,0;0,0;9,0;19,0;4,0
+CE;CASCAVEL;Parda;03;Masculino;2;54,0;7,0;0,0;15,0;27,0;5,0
+CE;CASCAVEL;Preta;02;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;CASCAVEL;Preta;02;Masculino;2;6,0;0,0;0,0;3,0;3,0;0,0
+CE;CATARINA;Branca;01;Feminino;4;6,0;1,0;0,0;0,0;5,0;0,0
+CE;CATARINA;Branca;01;Masculino;2;12,0;7,0;0,0;0,0;5,0;0,0
+CE;CATARINA;Parda;03;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;CATARINA;Parda;03;Masculino;2;3,0;3,0;0,0;0,0;0,0;0,0
+CE;CATUNDA;Branca;01;Feminino;4;5,0;2,0;0,0;1,0;2,0;0,0
+CE;CATUNDA;Branca;01;Masculino;2;5,0;0,0;0,0;0,0;5,0;0,0
+CE;CATUNDA;Parda;03;Feminino;4;5,0;1,0;0,0;1,0;3,0;0,0
+CE;CATUNDA;Parda;03;Masculino;2;12,0;6,0;0,0;2,0;4,0;0,0
+CE;CATUNDA;Preta;02;Feminino;4;1,0;0,0;0,0;1,0;0,0;0,0
+CE;CATUNDA;Preta;02;Masculino;2;2,0;0,0;0,0;0,0;2,0;0,0
+CE;CAUCAIA;Amarela;04;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;CAUCAIA;Amarela;04;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;CAUCAIA;Branca;01;Feminino;4;46,0;1,0;0,0;21,0;23,0;1,0
+CE;CAUCAIA;Branca;01;Masculino;2;60,0;7,0;0,0;22,0;28,0;3,0
+CE;CAUCAIA;Indígena;05;Feminino;4;1,0;0,0;0,0;1,0;0,0;0,0
+CE;CAUCAIA;Indígena;05;Masculino;2;3,0;1,0;0,0;1,0;1,0;0,0
+CE;CAUCAIA;Parda;03;Feminino;4;132,0;3,0;0,0;35,0;86,0;8,0
+CE;CAUCAIA;Parda;03;Masculino;2;245,0;11,0;0,0;75,0;148,0;11,0
+CE;CAUCAIA;Preta;02;Feminino;4;19,0;0,0;0,0;7,0;10,0;2,0
+CE;CAUCAIA;Preta;02;Masculino;2;28,0;0,0;0,0;8,0;20,0;0,0
+CE;CEDRO;Branca;01;Feminino;4;5,0;0,0;0,0;1,0;4,0;0,0
+CE;CEDRO;Branca;01;Masculino;2;9,0;6,0;0,0;1,0;2,0;0,0
+CE;CEDRO;Parda;03;Feminino;4;13,0;3,0;0,0;3,0;7,0;0,0
+CE;CEDRO;Parda;03;Masculino;2;22,0;2,0;0,0;7,0;12,0;1,0
+CE;CEDRO;Preta;02;Feminino;4;4,0;0,0;0,0;2,0;2,0;0,0
+CE;CEDRO;Preta;02;Masculino;2;5,0;0,0;0,0;3,0;2,0;0,0
+CE;CHAVAL;Branca;01;Feminino;4;2,0;1,0;0,0;0,0;1,0;0,0
+CE;CHAVAL;Branca;01;Masculino;2;2,0;1,0;0,0;0,0;1,0;0,0
+CE;CHAVAL;Parda;03;Feminino;4;8,0;4,0;0,0;2,0;2,0;0,0
+CE;CHAVAL;Parda;03;Masculino;2;20,0;3,0;0,0;4,0;13,0;0,0
+CE;CHOROZINHO;Branca;01;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;CHOROZINHO;Branca;01;Masculino;2;1,0;1,0;0,0;0,0;0,0;0,0
+CE;CHOROZINHO;Parda;03;Feminino;4;11,0;3,0;0,0;1,0;7,0;0,0
+CE;CHOROZINHO;Parda;03;Masculino;2;25,0;6,0;0,0;0,0;19,0;0,0
+CE;CHOROZINHO;Preta;02;Masculino;2;1,0;1,0;0,0;0,0;0,0;0,0
+CE;CHORÓ;Branca;01;Feminino;4;3,0;0,0;0,0;0,0;3,0;0,0
+CE;CHORÓ;Branca;01;Masculino;2;2,0;1,0;0,0;0,0;1,0;0,0
+CE;CHORÓ;Parda;03;Feminino;4;17,0;2,0;0,0;2,0;13,0;0,0
+CE;CHORÓ;Parda;03;Masculino;2;38,0;6,0;0,0;4,0;28,0;0,0
+CE;CHORÓ;Preta;02;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;COREAÚ;Branca;01;Feminino;4;6,0;1,0;0,0;0,0;5,0;0,0
+CE;COREAÚ;Branca;01;Masculino;2;8,0;4,0;0,0;1,0;3,0;0,0
+CE;COREAÚ;Parda;03;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;COREAÚ;Parda;03;Masculino;2;7,0;4,0;0,0;0,0;2,0;1,0
+CE;CRATEÚS;Amarela;04;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;CRATEÚS;Branca;01;Feminino;4;22,0;0,0;0,0;8,0;14,0;0,0
+CE;CRATEÚS;Branca;01;Masculino;2;36,0;3,0;0,0;6,0;24,0;3,0
+CE;CRATEÚS;Indígena;05;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;CRATEÚS;Parda;03;Feminino;4;15,0;1,0;0,0;2,0;12,0;0,0
+CE;CRATEÚS;Parda;03;Masculino;2;37,0;11,0;0,0;6,0;19,0;1,0
+CE;CRATEÚS;Preta;02;Masculino;2;2,0;0,0;0,0;1,0;1,0;0,0
+CE;CRATO;Amarela;04;Masculino;2;2,0;0,0;0,0;1,0;1,0;0,0
+CE;CRATO;Branca;01;Feminino;4;24,0;1,0;0,0;7,0;16,0;0,0
+CE;CRATO;Branca;01;Masculino;2;56,0;8,0;0,0;11,0;37,0;0,0
+CE;CRATO;Indígena;05;Feminino;4;1,0;0,0;0,0;0,0;0,0;1,0
+CE;CRATO;Não Informado;06;Masculino;2;2,0;0,0;0,0;0,0;2,0;0,0
+CE;CRATO;Parda;03;Feminino;4;46,0;1,0;0,0;10,0;34,0;1,0
+CE;CRATO;Parda;03;Masculino;2;81,0;5,0;0,0;26,0;45,0;5,0
+CE;CRATO;Preta;02;Feminino;4;20,0;0,0;0,0;6,0;14,0;0,0
+CE;CRATO;Preta;02;Masculino;2;45,0;4,0;0,0;7,0;34,0;0,0
+CE;CROATÁ;Branca;01;Feminino;4;7,0;2,0;0,0;1,0;4,0;0,0
+CE;CROATÁ;Branca;01;Masculino;2;9,0;3,0;0,0;3,0;3,0;0,0
+CE;CROATÁ;Parda;03;Feminino;4;6,0;0,0;0,0;2,0;4,0;0,0
+CE;CROATÁ;Parda;03;Masculino;2;19,0;6,0;0,0;4,0;9,0;0,0
+CE;CROATÁ;Preta;02;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;CROATÁ;Preta;02;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;CRUZ;Branca;01;Feminino;4;2,0;0,0;0,0;2,0;0,0;0,0
+CE;CRUZ;Branca;01;Masculino;2;5,0;0,0;0,0;4,0;0,0;1,0
+CE;CRUZ;Parda;03;Feminino;4;18,0;1,0;0,0;5,0;12,0;0,0
+CE;CRUZ;Parda;03;Masculino;2;35,0;10,0;0,0;6,0;17,0;2,0
+CE;CRUZ;Preta;02;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;CRUZ;Preta;02;Masculino;2;2,0;0,0;0,0;0,0;2,0;0,0
+CE;DEPUTADO IRAPUAN PINHEIRO;Branca;01;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;DEPUTADO IRAPUAN PINHEIRO;Branca;01;Masculino;2;10,0;4,0;0,0;4,0;2,0;0,0
+CE;DEPUTADO IRAPUAN PINHEIRO;Parda;03;Feminino;4;7,0;1,0;0,0;2,0;4,0;0,0
+CE;DEPUTADO IRAPUAN PINHEIRO;Parda;03;Masculino;2;8,0;4,0;0,0;0,0;4,0;0,0
+CE;ERERÉ;Branca;01;Feminino;4;3,0;0,0;0,0;0,0;3,0;0,0
+CE;ERERÉ;Branca;01;Masculino;2;9,0;4,0;0,0;1,0;4,0;0,0
+CE;ERERÉ;Parda;03;Feminino;4;2,0;2,0;0,0;0,0;0,0;0,0
+CE;ERERÉ;Parda;03;Masculino;2;6,0;2,0;0,0;0,0;4,0;0,0
+CE;ERERÉ;Preta;02;Feminino;4;2,0;1,0;0,0;0,0;1,0;0,0
+CE;ERERÉ;Preta;02;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;EUSÉBIO;Amarela;04;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;EUSÉBIO;Branca;01;Feminino;4;6,0;0,0;0,0;0,0;6,0;0,0
+CE;EUSÉBIO;Branca;01;Masculino;2;9,0;3,0;0,0;1,0;5,0;0,0
+CE;EUSÉBIO;Indígena;05;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;EUSÉBIO;Parda;03;Feminino;4;22,0;4,0;0,0;4,0;12,0;2,0
+CE;EUSÉBIO;Parda;03;Masculino;2;41,0;7,0;0,0;8,0;25,0;1,0
+CE;EUSÉBIO;Preta;02;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;EUSÉBIO;Preta;02;Masculino;2;3,0;1,0;0,0;0,0;2,0;0,0
+CE;FARIAS BRITO;Branca;01;Feminino;4;10,0;0,0;0,0;2,0;8,0;0,0
+CE;FARIAS BRITO;Branca;01;Masculino;2;23,0;7,0;0,0;2,0;14,0;0,0
+CE;FARIAS BRITO;Parda;03;Feminino;4;7,0;1,0;0,0;2,0;4,0;0,0
+CE;FARIAS BRITO;Parda;03;Masculino;2;11,0;3,0;0,0;8,0;0,0;0,0
+CE;FARIAS BRITO;Preta;02;Feminino;4;3,0;0,0;0,0;2,0;1,0;0,0
+CE;FARIAS BRITO;Preta;02;Masculino;2;2,0;0,0;0,0;0,0;2,0;0,0
+CE;FORQUILHA;Branca;01;Feminino;4;11,0;1,0;0,0;3,0;7,0;0,0
+CE;FORQUILHA;Branca;01;Masculino;2;11,0;7,0;0,0;1,0;3,0;0,0
+CE;FORQUILHA;Parda;03;Feminino;4;3,0;0,0;0,0;1,0;2,0;0,0
+CE;FORQUILHA;Parda;03;Masculino;2;12,0;2,0;0,0;3,0;7,0;0,0
+CE;FORQUILHA;Preta;02;Masculino;2;2,0;1,0;0,0;0,0;1,0;0,0
+CE;FORTALEZA;Amarela;04;Feminino;4;2,0;0,0;0,0;2,0;0,0;0,0
+CE;FORTALEZA;Amarela;04;Masculino;2;2,0;0,0;0,0;2,0;0,0;0,0
+CE;FORTALEZA;Branca;01;Feminino;4;144,0;2,0;0,0;38,0;98,0;6,0
+CE;FORTALEZA;Branca;01;Masculino;2;259,0;16,0;0,0;72,0;162,0;9,0
+CE;FORTALEZA;Indígena;05;Feminino;4;2,0;0,0;0,0;0,0;1,0;1,0
+CE;FORTALEZA;Não Informado;06;Feminino;4;2,0;0,0;0,0;2,0;0,0;0,0
+CE;FORTALEZA;Não Informado;06;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;FORTALEZA;Parda;03;Feminino;4;232,0;5,0;0,0;88,0;133,0;6,0
+CE;FORTALEZA;Parda;03;Masculino;2;588,0;18,0;0,0;201,0;353,0;16,0
+CE;FORTALEZA;Preta;02;Feminino;4;55,0;2,0;0,0;19,0;33,0;1,0
+CE;FORTALEZA;Preta;02;Masculino;2;73,0;0,0;0,0;25,0;46,0;2,0
+CE;FORTIM;Branca;01;Feminino;4;5,0;3,0;0,0;0,0;2,0;0,0
+CE;FORTIM;Branca;01;Masculino;2;7,0;5,0;0,0;0,0;2,0;0,0
+CE;FORTIM;Parda;03;Feminino;4;3,0;0,0;0,0;2,0;1,0;0,0
+CE;FORTIM;Parda;03;Masculino;2;8,0;3,0;0,0;2,0;3,0;0,0
+CE;FORTIM;Preta;02;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;FRECHEIRINHA;Branca;01;Feminino;4;6,0;2,0;0,0;0,0;3,0;1,0
+CE;FRECHEIRINHA;Branca;01;Masculino;2;8,0;2,0;0,0;1,0;4,0;1,0
+CE;FRECHEIRINHA;Parda;03;Feminino;4;5,0;1,0;0,0;0,0;4,0;0,0
+CE;FRECHEIRINHA;Parda;03;Masculino;2;12,0;4,0;0,0;1,0;7,0;0,0
+CE;FRECHEIRINHA;Preta;02;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;GENERAL SAMPAIO;Branca;01;Feminino;4;4,0;2,0;0,0;0,0;2,0;0,0
+CE;GENERAL SAMPAIO;Branca;01;Masculino;2;3,0;1,0;0,0;0,0;2,0;0,0
+CE;GENERAL SAMPAIO;Parda;03;Feminino;4;11,0;0,0;0,0;0,0;11,0;0,0
+CE;GENERAL SAMPAIO;Parda;03;Masculino;2;20,0;6,0;0,0;0,0;14,0;0,0
+CE;GRANJA;Branca;01;Feminino;4;4,0;1,0;0,0;0,0;3,0;0,0
+CE;GRANJA;Branca;01;Masculino;2;2,0;1,0;0,0;0,0;1,0;0,0
+CE;GRANJA;Parda;03;Feminino;4;14,0;3,0;0,0;0,0;9,0;2,0
+CE;GRANJA;Parda;03;Masculino;2;31,0;10,0;0,0;0,0;21,0;0,0
+CE;GRANJA;Preta;02;Masculino;2;3,0;0,0;0,0;0,0;2,0;1,0
+CE;GRANJEIRO;Branca;01;Feminino;4;4,0;1,0;0,0;0,0;3,0;0,0
+CE;GRANJEIRO;Branca;01;Masculino;2;2,0;1,0;0,0;0,0;1,0;0,0
+CE;GRANJEIRO;Parda;03;Feminino;4;4,0;0,0;0,0;0,0;3,0;1,0
+CE;GRANJEIRO;Parda;03;Masculino;2;14,0;7,0;0,0;0,0;7,0;0,0
+CE;GRAÇA;Branca;01;Feminino;4;6,0;1,0;0,0;0,0;5,0;0,0
+CE;GRAÇA;Branca;01;Masculino;2;12,0;9,0;0,0;0,0;3,0;0,0
+CE;GRAÇA;Parda;03;Feminino;4;2,0;0,0;0,0;1,0;1,0;0,0
+CE;GRAÇA;Parda;03;Masculino;2;2,0;1,0;0,0;0,0;1,0;0,0
+CE;GRAÇA;Preta;02;Masculino;2;2,0;0,0;0,0;2,0;0,0;0,0
+CE;GROAÍRAS;Branca;01;Feminino;4;8,0;1,0;0,0;2,0;5,0;0,0
+CE;GROAÍRAS;Branca;01;Masculino;2;8,0;3,0;0,0;1,0;4,0;0,0
+CE;GROAÍRAS;Parda;03;Feminino;4;5,0;0,0;0,0;3,0;2,0;0,0
+CE;GROAÍRAS;Parda;03;Masculino;2;13,0;5,0;0,0;5,0;3,0;0,0
+CE;GROAÍRAS;Preta;02;Feminino;4;1,0;0,0;0,0;1,0;0,0;0,0
+CE;GUAIÚBA;Branca;01;Feminino;4;6,0;1,0;0,0;2,0;3,0;0,0
+CE;GUAIÚBA;Branca;01;Masculino;2;10,0;3,0;0,0;2,0;5,0;0,0
+CE;GUAIÚBA;Não Informado;06;Feminino;4;4,0;1,0;0,0;0,0;3,0;0,0
+CE;GUAIÚBA;Não Informado;06;Masculino;2;7,0;1,0;0,0;1,0;5,0;0,0
+CE;GUAIÚBA;Parda;03;Feminino;4;28,0;2,0;0,0;5,0;20,0;1,0
+CE;GUAIÚBA;Parda;03;Masculino;2;49,0;3,0;0,0;8,0;38,0;0,0
+CE;GUAIÚBA;Preta;02;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;GUAIÚBA;Preta;02;Masculino;2;4,0;0,0;0,0;1,0;3,0;0,0
+CE;GUARACIABA DO NORTE;Branca;01;Feminino;4;7,0;3,0;0,0;2,0;2,0;0,0
+CE;GUARACIABA DO NORTE;Branca;01;Masculino;2;13,0;5,0;0,0;2,0;3,0;3,0
+CE;GUARACIABA DO NORTE;Não divulgável;-4;Não divulgável;-4;1,0;0,0;0,0;0,0;0,0;1,0
+CE;GUARACIABA DO NORTE;Parda;03;Feminino;4;6,0;1,0;0,0;1,0;4,0;0,0
+CE;GUARACIABA DO NORTE;Parda;03;Masculino;2;13,0;4,0;0,0;3,0;6,0;0,0
+CE;GUARACIABA DO NORTE;Preta;02;Feminino;4;1,0;0,0;0,0;1,0;0,0;0,0
+CE;GUARACIABA DO NORTE;Preta;02;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;GUARAMIRANGA;Branca;01;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;GUARAMIRANGA;Branca;01;Masculino;2;4,0;1,0;0,0;0,0;3,0;0,0
+CE;GUARAMIRANGA;Parda;03;Feminino;4;15,0;1,0;0,0;0,0;14,0;0,0
+CE;GUARAMIRANGA;Parda;03;Masculino;2;25,0;6,0;0,0;0,0;19,0;0,0
+CE;GUARAMIRANGA;Preta;02;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;GUARAMIRANGA;Preta;02;Masculino;2;5,0;1,0;0,0;0,0;4,0;0,0
+CE;HIDROLÂNDIA;Branca;01;Feminino;4;3,0;0,0;0,0;0,0;3,0;0,0
+CE;HIDROLÂNDIA;Branca;01;Masculino;2;4,0;3,0;0,0;0,0;1,0;0,0
+CE;HIDROLÂNDIA;Não Informado;06;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;HIDROLÂNDIA;Parda;03;Feminino;4;10,0;1,0;0,0;3,0;6,0;0,0
+CE;HIDROLÂNDIA;Parda;03;Masculino;2;22,0;7,0;0,0;6,0;9,0;0,0
+CE;HORIZONTE;Branca;01;Feminino;4;11,0;1,0;0,0;4,0;6,0;0,0
+CE;HORIZONTE;Branca;01;Masculino;2;30,0;5,0;0,0;7,0;17,0;1,0
+CE;HORIZONTE;Parda;03;Feminino;4;45,0;1,0;0,0;13,0;30,0;1,0
+CE;HORIZONTE;Parda;03;Masculino;2;77,0;8,0;0,0;20,0;47,0;2,0
+CE;HORIZONTE;Preta;02;Feminino;4;2,0;0,0;0,0;1,0;1,0;0,0
+CE;HORIZONTE;Preta;02;Masculino;2;4,0;0,0;0,0;0,0;4,0;0,0
+CE;IBARETAMA;Branca;01;Feminino;4;7,0;0,0;0,0;1,0;6,0;0,0
+CE;IBARETAMA;Branca;01;Masculino;2;4,0;0,0;0,0;0,0;4,0;0,0
+CE;IBARETAMA;Parda;03;Feminino;4;14,0;2,0;0,0;1,0;10,0;1,0
+CE;IBARETAMA;Parda;03;Masculino;2;24,0;7,0;0,0;2,0;12,0;3,0
+CE;IBARETAMA;Preta;02;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;IBIAPINA;Branca;01;Masculino;2;3,0;2,0;0,0;0,0;1,0;0,0
+CE;IBIAPINA;Parda;03;Feminino;4;12,0;2,0;0,0;2,0;8,0;0,0
+CE;IBIAPINA;Parda;03;Masculino;2;22,0;7,0;0,0;3,0;12,0;0,0
+CE;IBICUITINGA;Branca;01;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;IBICUITINGA;Parda;03;Feminino;4;15,0;0,0;0,0;3,0;12,0;0,0
+CE;IBICUITINGA;Parda;03;Masculino;2;29,0;9,0;0,0;6,0;13,0;1,0
+CE;ICAPUÍ;Branca;01;Feminino;4;5,0;0,0;0,0;1,0;4,0;0,0
+CE;ICAPUÍ;Branca;01;Masculino;2;11,0;4,0;0,0;0,0;5,0;2,0
+CE;ICAPUÍ;Parda;03;Feminino;4;14,0;1,0;0,0;5,0;7,0;1,0
+CE;ICAPUÍ;Parda;03;Masculino;2;15,0;4,0;0,0;2,0;8,0;1,0
+CE;ICAPUÍ;Preta;02;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;ICAPUÍ;Preta;02;Masculino;2;5,0;2,0;0,0;0,0;3,0;0,0
+CE;ICÓ;Amarela;04;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;ICÓ;Branca;01;Feminino;4;11,0;2,0;0,0;4,0;5,0;0,0
+CE;ICÓ;Branca;01;Masculino;2;27,0;5,0;0,0;5,0;16,0;1,0
+CE;ICÓ;Parda;03;Feminino;4;23,0;1,0;0,0;5,0;17,0;0,0
+CE;ICÓ;Parda;03;Masculino;2;42,0;7,0;0,0;11,0;20,0;4,0
+CE;ICÓ;Preta;02;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;ICÓ;Preta;02;Masculino;2;4,0;0,0;0,0;0,0;3,0;1,0
+CE;IGUATU;Branca;01;Feminino;4;32,0;0,0;0,0;13,0;19,0;0,0
+CE;IGUATU;Branca;01;Masculino;2;49,0;7,0;0,0;15,0;22,0;5,0
+CE;IGUATU;Parda;03;Feminino;4;31,0;1,0;0,0;14,0;14,0;2,0
+CE;IGUATU;Parda;03;Masculino;2;71,0;9,0;0,0;28,0;33,0;1,0
+CE;IGUATU;Preta;02;Feminino;4;8,0;0,0;0,0;5,0;3,0;0,0
+CE;IGUATU;Preta;02;Masculino;2;7,0;0,0;0,0;5,0;2,0;0,0
+CE;INDEPENDÊNCIA;Branca;01;Feminino;4;8,0;0,0;0,0;2,0;6,0;0,0
+CE;INDEPENDÊNCIA;Branca;01;Masculino;2;17,0;7,0;0,0;2,0;8,0;0,0
+CE;INDEPENDÊNCIA;Parda;03;Feminino;4;9,0;1,0;0,0;4,0;4,0;0,0
+CE;INDEPENDÊNCIA;Parda;03;Masculino;2;15,0;3,0;0,0;7,0;4,0;1,0
+CE;INDEPENDÊNCIA;Preta;02;Feminino;4;3,0;0,0;0,0;2,0;1,0;0,0
+CE;INDEPENDÊNCIA;Preta;02;Masculino;2;3,0;0,0;0,0;1,0;2,0;0,0
+CE;IPAPORANGA;Branca;01;Feminino;4;15,0;0,0;0,0;4,0;11,0;0,0
+CE;IPAPORANGA;Branca;01;Masculino;2;22,0;4,0;0,0;7,0;11,0;0,0
+CE;IPAPORANGA;Parda;03;Feminino;4;4,0;1,0;0,0;0,0;3,0;0,0
+CE;IPAPORANGA;Parda;03;Masculino;2;14,0;4,0;0,0;0,0;10,0;0,0
+CE;IPAUMIRIM;Branca;01;Feminino;4;4,0;0,0;0,0;1,0;3,0;0,0
+CE;IPAUMIRIM;Branca;01;Masculino;2;6,0;1,0;0,0;1,0;4,0;0,0
+CE;IPAUMIRIM;Parda;03;Feminino;4;10,0;3,0;0,0;1,0;6,0;0,0
+CE;IPAUMIRIM;Parda;03;Masculino;2;21,0;5,0;0,0;0,0;15,0;1,0
+CE;IPAUMIRIM;Preta;02;Feminino;4;1,0;0,0;0,0;1,0;0,0;0,0
+CE;IPAUMIRIM;Preta;02;Masculino;2;2,0;0,0;0,0;1,0;1,0;0,0
+CE;IPU;Branca;01;Feminino;4;8,0;2,0;0,0;1,0;4,0;1,0
+CE;IPU;Branca;01;Masculino;2;20,0;3,0;0,0;8,0;9,0;0,0
+CE;IPU;Não Informado;06;Feminino;4;2,0;1,0;0,0;1,0;0,0;0,0
+CE;IPU;Não Informado;06;Masculino;2;12,0;4,0;0,0;4,0;4,0;0,0
+CE;IPU;Parda;03;Feminino;4;18,0;1,0;0,0;6,0;9,0;2,0
+CE;IPU;Parda;03;Masculino;2;21,0;2,0;0,0;5,0;12,0;2,0
+CE;IPU;Preta;02;Feminino;4;1,0;0,0;0,0;1,0;0,0;0,0
+CE;IPU;Preta;02;Masculino;2;2,0;0,0;0,0;2,0;0,0;0,0
+CE;IPUEIRAS;Branca;01;Feminino;4;12,0;1,0;0,0;0,0;11,0;0,0
+CE;IPUEIRAS;Branca;01;Masculino;2;17,0;1,0;0,0;0,0;16,0;0,0
+CE;IPUEIRAS;Parda;03;Feminino;4;9,0;2,0;0,0;1,0;6,0;0,0
+CE;IPUEIRAS;Parda;03;Masculino;2;27,0;9,0;0,0;0,0;18,0;0,0
+CE;IPUEIRAS;Preta;02;Feminino;4;2,0;0,0;0,0;0,0;1,0;1,0
+CE;IPUEIRAS;Preta;02;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;IRACEMA;Branca;01;Feminino;4;4,0;0,0;0,0;0,0;4,0;0,0
+CE;IRACEMA;Branca;01;Masculino;2;3,0;1,0;0,0;0,0;2,0;0,0
+CE;IRACEMA;Parda;03;Feminino;4;6,0;0,0;0,0;0,0;6,0;0,0
+CE;IRACEMA;Parda;03;Masculino;2;14,0;5,0;0,0;1,0;8,0;0,0
+CE;IRACEMA;Preta;02;Feminino;4;3,0;0,0;0,0;0,0;3,0;0,0
+CE;IRACEMA;Preta;02;Masculino;2;8,0;3,0;0,0;0,0;4,0;1,0
+CE;IRAUÇUBA;Branca;01;Feminino;4;3,0;0,0;0,0;1,0;2,0;0,0
+CE;IRAUÇUBA;Branca;01;Masculino;2;7,0;1,0;0,0;3,0;3,0;0,0
+CE;IRAUÇUBA;Parda;03;Feminino;4;17,0;1,0;0,0;2,0;14,0;0,0
+CE;IRAUÇUBA;Parda;03;Masculino;2;30,0;9,0;0,0;1,0;20,0;0,0
+CE;IRAUÇUBA;Preta;02;Feminino;4;2,0;0,0;0,0;1,0;1,0;0,0
+CE;IRAUÇUBA;Preta;02;Masculino;2;5,0;0,0;0,0;3,0;2,0;0,0
+CE;ITAITINGA;Branca;01;Feminino;4;20,0;1,0;0,0;3,0;15,0;1,0
+CE;ITAITINGA;Branca;01;Masculino;2;23,0;5,0;0,0;1,0;17,0;0,0
+CE;ITAITINGA;Parda;03;Feminino;4;18,0;2,0;0,0;1,0;15,0;0,0
+CE;ITAITINGA;Parda;03;Masculino;2;40,0;4,0;0,0;4,0;30,0;2,0
+CE;ITAITINGA;Preta;02;Feminino;4;3,0;0,0;0,0;0,0;3,0;0,0
+CE;ITAITINGA;Preta;02;Masculino;2;9,0;1,0;0,0;1,0;7,0;0,0
+CE;ITAIÇABA;Branca;01;Feminino;4;6,0;1,0;0,0;1,0;4,0;0,0
+CE;ITAIÇABA;Branca;01;Masculino;2;8,0;2,0;0,0;2,0;4,0;0,0
+CE;ITAIÇABA;Parda;03;Feminino;4;7,0;1,0;0,0;1,0;5,0;0,0
+CE;ITAIÇABA;Parda;03;Masculino;2;15,0;5,0;0,0;2,0;8,0;0,0
+CE;ITAIÇABA;Preta;02;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;ITAIÇABA;Preta;02;Masculino;2;2,0;0,0;0,0;0,0;2,0;0,0
+CE;ITAPAJÉ;Branca;01;Feminino;4;18,0;1,0;0,0;2,0;14,0;1,0
+CE;ITAPAJÉ;Branca;01;Masculino;2;26,0;6,0;0,0;6,0;14,0;0,0
+CE;ITAPAJÉ;Parda;03;Feminino;4;36,0;1,0;0,0;7,0;27,0;1,0
+CE;ITAPAJÉ;Parda;03;Masculino;2;72,0;7,0;0,0;8,0;56,0;1,0
+CE;ITAPAJÉ;Preta;02;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;ITAPAJÉ;Preta;02;Masculino;2;9,0;0,0;0,0;1,0;7,0;1,0
+CE;ITAPIPOCA;Branca;01;Feminino;4;12,0;0,0;0,0;3,0;8,0;1,0
+CE;ITAPIPOCA;Branca;01;Masculino;2;32,0;7,0;0,0;5,0;18,0;2,0
+CE;ITAPIPOCA;Não Informado;06;Feminino;4;8,0;1,0;0,0;0,0;7,0;0,0
+CE;ITAPIPOCA;Não Informado;06;Masculino;2;21,0;3,0;0,0;0,0;18,0;0,0
+CE;ITAPIPOCA;Parda;03;Feminino;4;25,0;2,0;0,0;3,0;20,0;0,0
+CE;ITAPIPOCA;Parda;03;Masculino;2;49,0;4,0;0,0;9,0;34,0;2,0
+CE;ITAPIPOCA;Preta;02;Feminino;4;5,0;0,0;0,0;0,0;5,0;0,0
+CE;ITAPIPOCA;Preta;02;Masculino;2;11,0;2,0;0,0;0,0;9,0;0,0
+CE;ITAPIÚNA;Parda;03;Feminino;4;14,0;1,0;0,0;0,0;13,0;0,0
+CE;ITAPIÚNA;Parda;03;Masculino;2;29,0;10,0;0,0;0,0;19,0;0,0
+CE;ITAREMA;Branca;01;Feminino;4;7,0;0,0;0,0;1,0;6,0;0,0
+CE;ITAREMA;Branca;01;Masculino;2;12,0;3,0;0,0;4,0;4,0;1,0
+CE;ITAREMA;Indígena;05;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;ITAREMA;Parda;03;Feminino;4;20,0;1,0;0,0;7,0;12,0;0,0
+CE;ITAREMA;Parda;03;Masculino;2;48,0;9,0;0,0;13,0;25,0;1,0
+CE;ITAREMA;Preta;02;Feminino;4;1,0;0,0;0,0;1,0;0,0;0,0
+CE;ITAREMA;Preta;02;Masculino;2;2,0;0,0;0,0;0,0;2,0;0,0
+CE;ITATIRA;Branca;01;Feminino;4;5,0;0,0;0,0;1,0;4,0;0,0
+CE;ITATIRA;Branca;01;Masculino;2;10,0;3,0;0,0;0,0;7,0;0,0
+CE;ITATIRA;Parda;03;Feminino;4;11,0;1,0;0,0;4,0;6,0;0,0
+CE;ITATIRA;Parda;03;Masculino;2;24,0;7,0;0,0;7,0;10,0;0,0
+CE;ITATIRA;Preta;02;Feminino;4;2,0;0,0;0,0;2,0;0,0;0,0
+CE;ITATIRA;Preta;02;Masculino;2;4,0;0,0;0,0;4,0;0,0;0,0
+CE;JAGUARETAMA;Branca;01;Feminino;4;5,0;1,0;0,0;2,0;2,0;0,0
+CE;JAGUARETAMA;Branca;01;Masculino;2;8,0;3,0;0,0;0,0;5,0;0,0
+CE;JAGUARETAMA;Parda;03;Feminino;4;6,0;0,0;0,0;0,0;6,0;0,0
+CE;JAGUARETAMA;Parda;03;Masculino;2;11,0;7,0;0,0;2,0;2,0;0,0
+CE;JAGUARETAMA;Preta;02;Feminino;4;2,0;0,0;0,0;1,0;1,0;0,0
+CE;JAGUARETAMA;Preta;02;Masculino;2;4,0;0,0;0,0;1,0;3,0;0,0
+CE;JAGUARIBARA;Branca;01;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;JAGUARIBARA;Branca;01;Masculino;2;10,0;2,0;0,0;1,0;7,0;0,0
+CE;JAGUARIBARA;Parda;03;Feminino;4;10,0;3,0;0,0;1,0;6,0;0,0
+CE;JAGUARIBARA;Parda;03;Masculino;2;14,0;4,0;0,0;0,0;10,0;0,0
+CE;JAGUARIBARA;Preta;02;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;JAGUARIBE;Branca;01;Feminino;4;10,0;1,0;0,0;2,0;7,0;0,0
+CE;JAGUARIBE;Branca;01;Masculino;2;11,0;3,0;0,0;2,0;5,0;1,0
+CE;JAGUARIBE;Parda;03;Feminino;4;16,0;1,0;0,0;1,0;14,0;0,0
+CE;JAGUARIBE;Parda;03;Masculino;2;38,0;8,0;0,0;3,0;26,0;1,0
+CE;JAGUARIBE;Preta;02;Masculino;2;4,0;0,0;0,0;0,0;4,0;0,0
+CE;JAGUARUANA;Branca;01;Feminino;4;13,0;1,0;0,0;6,0;5,0;1,0
+CE;JAGUARUANA;Branca;01;Masculino;2;17,0;4,0;0,0;8,0;4,0;1,0
+CE;JAGUARUANA;Parda;03;Feminino;4;11,0;1,0;0,0;1,0;8,0;1,0
+CE;JAGUARUANA;Parda;03;Masculino;2;27,0;7,0;0,0;3,0;17,0;0,0
+CE;JAGUARUANA;Preta;02;Feminino;4;5,0;0,0;0,0;2,0;3,0;0,0
+CE;JAGUARUANA;Preta;02;Masculino;2;4,0;0,0;0,0;3,0;1,0;0,0
+CE;JARDIM;Branca;01;Feminino;4;11,0;1,0;0,0;3,0;7,0;0,0
+CE;JARDIM;Branca;01;Masculino;2;9,0;5,0;0,0;3,0;1,0;0,0
+CE;JARDIM;Parda;03;Feminino;4;5,0;0,0;0,0;1,0;4,0;0,0
+CE;JARDIM;Parda;03;Masculino;2;19,0;4,0;0,0;6,0;9,0;0,0
+CE;JARDIM;Preta;02;Feminino;4;2,0;0,0;0,0;2,0;0,0;0,0
+CE;JARDIM;Preta;02;Masculino;2;1,0;1,0;0,0;0,0;0,0;0,0
+CE;JATI;Branca;01;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;JATI;Branca;01;Masculino;2;4,0;3,0;0,0;0,0;1,0;0,0
+CE;JATI;Parda;03;Feminino;4;8,0;1,0;0,0;0,0;7,0;0,0
+CE;JATI;Parda;03;Masculino;2;17,0;5,0;0,0;2,0;10,0;0,0
+CE;JATI;Preta;02;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;JIJOCA DE JERICOACOARA;Branca;01;Feminino;4;6,0;0,0;0,0;3,0;3,0;0,0
+CE;JIJOCA DE JERICOACOARA;Branca;01;Masculino;2;13,0;1,0;0,0;5,0;7,0;0,0
+CE;JIJOCA DE JERICOACOARA;Parda;03;Feminino;4;26,0;1,0;0,0;5,0;19,0;1,0
+CE;JIJOCA DE JERICOACOARA;Parda;03;Masculino;2;43,0;9,0;0,0;5,0;29,0;0,0
+CE;JIJOCA DE JERICOACOARA;Preta;02;Feminino;4;1,0;0,0;0,0;1,0;0,0;0,0
+CE;JUAZEIRO DO NORTE;Amarela;04;Feminino;4;2,0;0,0;0,0;2,0;0,0;0,0
+CE;JUAZEIRO DO NORTE;Amarela;04;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;JUAZEIRO DO NORTE;Branca;01;Feminino;4;56,0;1,0;0,0;17,0;36,0;2,0
+CE;JUAZEIRO DO NORTE;Branca;01;Masculino;2;71,0;4,0;0,0;32,0;35,0;0,0
+CE;JUAZEIRO DO NORTE;Não Informado;06;Feminino;4;25,0;1,0;0,0;1,0;20,0;3,0
+CE;JUAZEIRO DO NORTE;Não Informado;06;Masculino;2;48,0;4,0;0,0;2,0;40,0;2,0
+CE;JUAZEIRO DO NORTE;Parda;03;Feminino;4;56,0;1,0;0,0;20,0;34,0;1,0
+CE;JUAZEIRO DO NORTE;Parda;03;Masculino;2;111,0;10,0;0,0;32,0;65,0;4,0
+CE;JUAZEIRO DO NORTE;Preta;02;Feminino;4;12,0;0,0;0,0;5,0;7,0;0,0
+CE;JUAZEIRO DO NORTE;Preta;02;Masculino;2;28,0;0,0;0,0;12,0;16,0;0,0
+CE;JUCÁS;Branca;01;Feminino;4;8,0;4,0;0,0;3,0;1,0;0,0
+CE;JUCÁS;Branca;01;Masculino;2;8,0;3,0;0,0;1,0;3,0;1,0
+CE;JUCÁS;Parda;03;Feminino;4;3,0;0,0;0,0;1,0;2,0;0,0
+CE;JUCÁS;Parda;03;Masculino;2;10,0;4,0;0,0;3,0;3,0;0,0
+CE;JUCÁS;Preta;02;Masculino;2;2,0;0,0;0,0;2,0;0,0;0,0
+CE;LAVRAS DA MANGABEIRA;Branca;01;Feminino;4;14,0;1,0;0,0;0,0;13,0;0,0
+CE;LAVRAS DA MANGABEIRA;Branca;01;Masculino;2;30,0;7,0;0,0;2,0;20,0;1,0
+CE;LAVRAS DA MANGABEIRA;Parda;03;Feminino;4;7,0;1,0;0,0;0,0;6,0;0,0
+CE;LAVRAS DA MANGABEIRA;Parda;03;Masculino;2;11,0;4,0;0,0;0,0;7,0;0,0
+CE;LAVRAS DA MANGABEIRA;Preta;02;Masculino;2;3,0;0,0;0,0;0,0;2,0;1,0
+CE;LIMOEIRO DO NORTE;Branca;01;Feminino;4;18,0;0,0;0,0;5,0;13,0;0,0
+CE;LIMOEIRO DO NORTE;Branca;01;Masculino;2;24,0;3,0;0,0;8,0;12,0;1,0
+CE;LIMOEIRO DO NORTE;Parda;03;Feminino;4;14,0;2,0;0,0;5,0;6,0;1,0
+CE;LIMOEIRO DO NORTE;Parda;03;Masculino;2;33,0;7,0;0,0;8,0;17,0;1,0
+CE;LIMOEIRO DO NORTE;Preta;02;Feminino;4;6,0;0,0;0,0;0,0;5,0;1,0
+CE;LIMOEIRO DO NORTE;Preta;02;Masculino;2;13,0;3,0;0,0;1,0;8,0;1,0
+CE;MADALENA;Branca;01;Feminino;4;5,0;1,0;0,0;0,0;4,0;0,0
+CE;MADALENA;Branca;01;Masculino;2;3,0;0,0;0,0;1,0;1,0;1,0
+CE;MADALENA;Não Informado;06;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;MADALENA;Parda;03;Feminino;4;10,0;2,0;0,0;2,0;6,0;0,0
+CE;MADALENA;Parda;03;Masculino;2;24,0;8,0;0,0;4,0;12,0;0,0
+CE;MADALENA;Preta;02;Masculino;2;2,0;0,0;0,0;0,0;2,0;0,0
+CE;MARACANAÚ;Amarela;04;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;MARACANAÚ;Amarela;04;Masculino;2;2,0;0,0;0,0;0,0;2,0;0,0
+CE;MARACANAÚ;Branca;01;Feminino;4;38,0;0,0;0,0;12,0;25,0;1,0
+CE;MARACANAÚ;Branca;01;Masculino;2;62,0;12,0;0,0;26,0;24,0;0,0
+CE;MARACANAÚ;Indígena;05;Feminino;4;2,0;0,0;0,0;2,0;0,0;0,0
+CE;MARACANAÚ;Indígena;05;Masculino;2;4,0;0,0;0,0;2,0;2,0;0,0
+CE;MARACANAÚ;Parda;03;Feminino;4;66,0;2,0;0,0;28,0;33,0;3,0
+CE;MARACANAÚ;Parda;03;Masculino;2;134,0;7,0;0,0;62,0;64,0;1,0
+CE;MARACANAÚ;Preta;02;Feminino;4;13,0;0,0;0,0;9,0;4,0;0,0
+CE;MARACANAÚ;Preta;02;Masculino;2;19,0;0,0;0,0;14,0;5,0;0,0
+CE;MARANGUAPE;Branca;01;Feminino;4;29,0;0,0;0,0;13,0;16,0;0,0
+CE;MARANGUAPE;Branca;01;Masculino;2;30,0;1,0;0,0;12,0;17,0;0,0
+CE;MARANGUAPE;Parda;03;Feminino;4;69,0;2,0;0,0;29,0;38,0;0,0
+CE;MARANGUAPE;Parda;03;Masculino;2;163,0;16,0;0,0;75,0;72,0;0,0
+CE;MARANGUAPE;Preta;02;Feminino;4;5,0;0,0;0,0;4,0;1,0;0,0
+CE;MARANGUAPE;Preta;02;Masculino;2;13,0;0,0;0,0;3,0;9,0;1,0
+CE;MARCO;Branca;01;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;MARCO;Branca;01;Masculino;2;2,0;0,0;0,0;1,0;1,0;0,0
+CE;MARCO;Parda;03;Feminino;4;17,0;3,0;0,0;4,0;10,0;0,0
+CE;MARCO;Parda;03;Masculino;2;33,0;8,0;0,0;9,0;16,0;0,0
+CE;MARTINÓPOLE;Branca;01;Feminino;4;4,0;1,0;0,0;0,0;2,0;1,0
+CE;MARTINÓPOLE;Branca;01;Masculino;2;7,0;6,0;0,0;0,0;1,0;0,0
+CE;MARTINÓPOLE;Parda;03;Feminino;4;6,0;0,0;0,0;0,0;5,0;1,0
+CE;MARTINÓPOLE;Parda;03;Masculino;2;13,0;2,0;0,0;0,0;8,0;3,0
+CE;MASSAPÊ;Amarela;04;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;MASSAPÊ;Branca;01;Feminino;4;5,0;0,0;0,0;1,0;3,0;1,0
+CE;MASSAPÊ;Branca;01;Masculino;2;9,0;2,0;0,0;2,0;4,0;1,0
+CE;MASSAPÊ;Parda;03;Feminino;4;24,0;1,0;0,0;7,0;15,0;1,0
+CE;MASSAPÊ;Parda;03;Masculino;2;51,0;9,0;0,0;15,0;24,0;3,0
+CE;MASSAPÊ;Preta;02;Feminino;4;5,0;1,0;0,0;1,0;3,0;0,0
+CE;MASSAPÊ;Preta;02;Masculino;2;8,0;0,0;0,0;3,0;4,0;1,0
+CE;MAURITI;Branca;01;Feminino;4;10,0;1,0;0,0;1,0;8,0;0,0
+CE;MAURITI;Branca;01;Masculino;2;18,0;5,0;0,0;1,0;11,0;1,0
+CE;MAURITI;Parda;03;Feminino;4;9,0;2,0;0,0;3,0;3,0;1,0
+CE;MAURITI;Parda;03;Masculino;2;20,0;5,0;0,0;2,0;12,0;1,0
+CE;MAURITI;Preta;02;Feminino;4;3,0;0,0;0,0;0,0;3,0;0,0
+CE;MAURITI;Preta;02;Masculino;2;3,0;0,0;0,0;0,0;3,0;0,0
+CE;MERUOCA;Branca;01;Feminino;4;3,0;0,0;0,0;0,0;3,0;0,0
+CE;MERUOCA;Branca;01;Masculino;2;2,0;1,0;0,0;0,0;1,0;0,0
+CE;MERUOCA;Parda;03;Feminino;4;16,0;3,0;0,0;0,0;13,0;0,0
+CE;MERUOCA;Parda;03;Masculino;2;37,0;7,0;0,0;1,0;28,0;1,0
+CE;MILAGRES;Branca;01;Feminino;4;6,0;0,0;0,0;1,0;5,0;0,0
+CE;MILAGRES;Branca;01;Masculino;2;12,0;3,0;0,0;0,0;7,0;2,0
+CE;MILAGRES;Parda;03;Feminino;4;13,0;3,0;0,0;4,0;5,0;1,0
+CE;MILAGRES;Parda;03;Masculino;2;20,0;5,0;0,0;4,0;10,0;1,0
+CE;MILAGRES;Preta;02;Feminino;4;3,0;0,0;0,0;1,0;2,0;0,0
+CE;MILAGRES;Preta;02;Masculino;2;4,0;0,0;0,0;4,0;0,0;0,0
+CE;MILHÃ;Branca;01;Feminino;4;10,0;0,0;0,0;4,0;6,0;0,0
+CE;MILHÃ;Branca;01;Masculino;2;10,0;3,0;0,0;4,0;3,0;0,0
+CE;MILHÃ;Não Informado;06;Feminino;4;1,0;0,0;0,0;1,0;0,0;0,0
+CE;MILHÃ;Não Informado;06;Masculino;2;1,0;0,0;0,0;0,0;0,0;1,0
+CE;MILHÃ;Parda;03;Feminino;4;4,0;0,0;0,0;0,0;4,0;0,0
+CE;MILHÃ;Parda;03;Masculino;2;16,0;6,0;0,0;1,0;9,0;0,0
+CE;MILHÃ;Preta;02;Feminino;4;1,0;0,0;0,0;1,0;0,0;0,0
+CE;MIRAÍMA;Branca;01;Feminino;4;4,0;2,0;0,0;1,0;0,0;1,0
+CE;MIRAÍMA;Branca;01;Masculino;2;7,0;2,0;0,0;2,0;3,0;0,0
+CE;MIRAÍMA;Parda;03;Feminino;4;6,0;0,0;0,0;1,0;5,0;0,0
+CE;MIRAÍMA;Parda;03;Masculino;2;12,0;5,0;0,0;2,0;5,0;0,0
+CE;MIRAÍMA;Preta;02;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;MISSÃO VELHA;Branca;01;Feminino;4;14,0;2,0;0,0;1,0;10,0;1,0
+CE;MISSÃO VELHA;Branca;01;Masculino;2;18,0;8,0;0,0;2,0;8,0;0,0
+CE;MISSÃO VELHA;Não Informado;06;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;MISSÃO VELHA;Não Informado;06;Masculino;2;5,0;0,0;0,0;0,0;5,0;0,0
+CE;MISSÃO VELHA;Parda;03;Feminino;4;4,0;0,0;0,0;2,0;2,0;0,0
+CE;MISSÃO VELHA;Parda;03;Masculino;2;13,0;3,0;0,0;6,0;4,0;0,0
+CE;MISSÃO VELHA;Preta;02;Feminino;4;1,0;0,0;0,0;1,0;0,0;0,0
+CE;MISSÃO VELHA;Preta;02;Masculino;2;2,0;0,0;0,0;1,0;1,0;0,0
+CE;MOMBAÇA;Branca;01;Feminino;4;7,0;2,0;0,0;0,0;5,0;0,0
+CE;MOMBAÇA;Branca;01;Masculino;2;14,0;7,0;0,0;0,0;7,0;0,0
+CE;MOMBAÇA;Parda;03;Feminino;4;9,0;1,0;0,0;0,0;8,0;0,0
+CE;MOMBAÇA;Parda;03;Masculino;2;12,0;3,0;0,0;0,0;9,0;0,0
+CE;MOMBAÇA;Preta;02;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;MOMBAÇA;Preta;02;Masculino;2;4,0;0,0;0,0;0,0;4,0;0,0
+CE;MONSENHOR TABOSA;Branca;01;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;MONSENHOR TABOSA;Branca;01;Masculino;2;2,0;1,0;0,0;0,0;1,0;0,0
+CE;MONSENHOR TABOSA;Indígena;05;Feminino;4;1,0;0,0;0,0;1,0;0,0;0,0
+CE;MONSENHOR TABOSA;Indígena;05;Masculino;2;4,0;1,0;0,0;2,0;1,0;0,0
+CE;MONSENHOR TABOSA;Parda;03;Feminino;4;10,0;1,0;0,0;4,0;5,0;0,0
+CE;MONSENHOR TABOSA;Parda;03;Masculino;2;14,0;7,0;0,0;3,0;4,0;0,0
+CE;MONSENHOR TABOSA;Preta;02;Feminino;4;3,0;1,0;0,0;1,0;1,0;0,0
+CE;MONSENHOR TABOSA;Preta;02;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;MORADA NOVA;Branca;01;Feminino;4;14,0;4,0;0,0;3,0;6,0;1,0
+CE;MORADA NOVA;Branca;01;Masculino;2;28,0;6,0;0,0;5,0;16,0;1,0
+CE;MORADA NOVA;Não Informado;06;Feminino;4;1,0;1,0;0,0;0,0;0,0;0,0
+CE;MORADA NOVA;Parda;03;Feminino;4;14,0;1,0;0,0;2,0;10,0;1,0
+CE;MORADA NOVA;Parda;03;Masculino;2;29,0;3,0;0,0;4,0;22,0;0,0
+CE;MORADA NOVA;Preta;02;Feminino;4;2,0;0,0;0,0;2,0;0,0;0,0
+CE;MORADA NOVA;Preta;02;Masculino;2;5,0;0,0;0,0;5,0;0,0;0,0
+CE;MORAÚJO;Branca;01;Feminino;4;3,0;2,0;0,0;0,0;1,0;0,0
+CE;MORAÚJO;Branca;01;Masculino;2;2,0;1,0;0,0;0,0;1,0;0,0
+CE;MORAÚJO;Parda;03;Feminino;4;5,0;1,0;0,0;0,0;3,0;1,0
+CE;MORAÚJO;Parda;03;Masculino;2;12,0;5,0;0,0;0,0;6,0;1,0
+CE;MORRINHOS;Branca;01;Feminino;4;4,0;2,0;0,0;0,0;2,0;0,0
+CE;MORRINHOS;Branca;01;Masculino;2;6,0;2,0;0,0;0,0;4,0;0,0
+CE;MORRINHOS;Parda;03;Feminino;4;13,0;0,0;0,0;5,0;8,0;0,0
+CE;MORRINHOS;Parda;03;Masculino;2;26,0;6,0;0,0;7,0;12,0;1,0
+CE;MORRINHOS;Preta;02;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;MORRINHOS;Preta;02;Masculino;2;5,0;1,0;0,0;1,0;3,0;0,0
+CE;MUCAMBO;Branca;01;Feminino;4;2,0;0,0;0,0;1,0;0,0;1,0
+CE;MUCAMBO;Branca;01;Masculino;2;2,0;1,0;0,0;0,0;1,0;0,0
+CE;MUCAMBO;Parda;03;Feminino;4;7,0;0,0;0,0;0,0;7,0;0,0
+CE;MUCAMBO;Parda;03;Masculino;2;14,0;8,0;0,0;3,0;3,0;0,0
+CE;MULUNGU;Parda;03;Feminino;4;11,0;2,0;0,0;0,0;9,0;0,0
+CE;MULUNGU;Parda;03;Masculino;2;17,0;7,0;0,0;0,0;10,0;0,0
+CE;NOVA OLINDA;Branca;01;Feminino;4;3,0;0,0;0,0;0,0;3,0;0,0
+CE;NOVA OLINDA;Branca;01;Masculino;2;8,0;1,0;0,0;0,0;7,0;0,0
+CE;NOVA OLINDA;Parda;03;Feminino;4;6,0;2,0;0,0;0,0;4,0;0,0
+CE;NOVA OLINDA;Parda;03;Masculino;2;8,0;6,0;0,0;0,0;1,0;1,0
+CE;NOVA OLINDA;Preta;02;Feminino;4;2,0;1,0;0,0;0,0;1,0;0,0
+CE;NOVA OLINDA;Preta;02;Masculino;2;4,0;1,0;0,0;0,0;3,0;0,0
+CE;NOVA RUSSAS;Branca;01;Feminino;4;9,0;3,0;0,0;2,0;4,0;0,0
+CE;NOVA RUSSAS;Branca;01;Masculino;2;16,0;3,0;0,0;2,0;10,0;1,0
+CE;NOVA RUSSAS;Parda;03;Feminino;4;22,0;1,0;0,0;9,0;11,0;1,0
+CE;NOVA RUSSAS;Parda;03;Masculino;2;38,0;5,0;0,0;15,0;18,0;0,0
+CE;NOVA RUSSAS;Preta;02;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;NOVA RUSSAS;Preta;02;Masculino;2;6,0;1,0;0,0;2,0;3,0;0,0
+CE;NOVO ORIENTE;Branca;01;Feminino;4;3,0;1,0;0,0;1,0;1,0;0,0
+CE;NOVO ORIENTE;Branca;01;Masculino;2;5,0;1,0;0,0;0,0;4,0;0,0
+CE;NOVO ORIENTE;Parda;03;Feminino;4;9,0;2,0;0,0;0,0;6,0;1,0
+CE;NOVO ORIENTE;Parda;03;Masculino;2;17,0;7,0;0,0;1,0;9,0;0,0
+CE;NOVO ORIENTE;Preta;02;Masculino;2;1,0;0,0;0,0;0,0;0,0;1,0
+CE;OCARA;Branca;01;Feminino;4;8,0;0,0;0,0;0,0;8,0;0,0
+CE;OCARA;Branca;01;Masculino;2;11,0;2,0;0,0;0,0;9,0;0,0
+CE;OCARA;Parda;03;Feminino;4;17,0;0,0;0,0;2,0;15,0;0,0
+CE;OCARA;Parda;03;Masculino;2;34,0;7,0;0,0;2,0;24,0;1,0
+CE;OCARA;Preta;02;Feminino;4;4,0;0,0;0,0;0,0;4,0;0,0
+CE;OCARA;Preta;02;Masculino;2;6,0;2,0;0,0;0,0;4,0;0,0
+CE;ORÓS;Branca;01;Feminino;4;6,0;0,0;0,0;0,0;6,0;0,0
+CE;ORÓS;Branca;01;Masculino;2;9,0;3,0;0,0;0,0;5,0;1,0
+CE;ORÓS;Parda;03;Feminino;4;9,0;0,0;0,0;0,0;9,0;0,0
+CE;ORÓS;Parda;03;Masculino;2;20,0;8,0;0,0;0,0;12,0;0,0
+CE;ORÓS;Preta;02;Masculino;2;2,0;0,0;0,0;0,0;2,0;0,0
+CE;PACAJUS;Branca;01;Feminino;4;22,0;1,0;0,0;9,0;10,0;2,0
+CE;PACAJUS;Branca;01;Masculino;2;27,0;5,0;0,0;13,0;9,0;0,0
+CE;PACAJUS;Parda;03;Feminino;4;28,0;1,0;0,0;11,0;13,0;3,0
+CE;PACAJUS;Parda;03;Masculino;2;76,0;7,0;0,0;31,0;36,0;2,0
+CE;PACAJUS;Preta;02;Feminino;4;5,0;0,0;0,0;2,0;3,0;0,0
+CE;PACAJUS;Preta;02;Masculino;2;8,0;1,0;0,0;2,0;5,0;0,0
+CE;PACATUBA;Amarela;04;Masculino;2;7,0;1,0;0,0;1,0;5,0;0,0
+CE;PACATUBA;Branca;01;Feminino;4;16,0;1,0;0,0;11,0;4,0;0,0
+CE;PACATUBA;Branca;01;Masculino;2;20,0;3,0;0,0;12,0;5,0;0,0
+CE;PACATUBA;Parda;03;Feminino;4;46,0;1,0;0,0;17,0;27,0;1,0
+CE;PACATUBA;Parda;03;Masculino;2;99,0;9,0;0,0;38,0;52,0;0,0
+CE;PACATUBA;Preta;02;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;PACATUBA;Preta;02;Masculino;2;5,0;0,0;0,0;2,0;3,0;0,0
+CE;PACOTI;Amarela;04;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;PACOTI;Amarela;04;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;PACOTI;Branca;01;Feminino;4;9,0;0,0;0,0;3,0;5,0;1,0
+CE;PACOTI;Branca;01;Masculino;2;12,0;2,0;0,0;6,0;4,0;0,0
+CE;PACOTI;Parda;03;Feminino;4;13,0;2,0;0,0;3,0;7,0;1,0
+CE;PACOTI;Parda;03;Masculino;2;31,0;5,0;0,0;12,0;14,0;0,0
+CE;PACOTI;Preta;02;Feminino;4;6,0;0,0;0,0;4,0;2,0;0,0
+CE;PACOTI;Preta;02;Masculino;2;9,0;0,0;0,0;4,0;5,0;0,0
+CE;PACUJÁ;Branca;01;Feminino;4;2,0;0,0;0,0;2,0;0,0;0,0
+CE;PACUJÁ;Branca;01;Masculino;2;6,0;4,0;0,0;2,0;0,0;0,0
+CE;PACUJÁ;Parda;03;Feminino;4;3,0;2,0;0,0;0,0;1,0;0,0
+CE;PACUJÁ;Parda;03;Masculino;2;6,0;1,0;0,0;2,0;3,0;0,0
+CE;PACUJÁ;Preta;02;Feminino;4;1,0;1,0;0,0;0,0;0,0;0,0
+CE;PACUJÁ;Preta;02;Masculino;2;1,0;1,0;0,0;0,0;0,0;0,0
+CE;PALHANO;Branca;01;Feminino;4;4,0;0,0;0,0;0,0;4,0;0,0
+CE;PALHANO;Branca;01;Masculino;2;3,0;1,0;0,0;1,0;1,0;0,0
+CE;PALHANO;Parda;03;Feminino;4;17,0;1,0;0,0;2,0;14,0;0,0
+CE;PALHANO;Parda;03;Masculino;2;33,0;7,0;0,0;1,0;25,0;0,0
+CE;PALHANO;Preta;02;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;PALMÁCIA;Branca;01;Feminino;4;13,0;2,0;0,0;0,0;11,0;0,0
+CE;PALMÁCIA;Branca;01;Masculino;2;16,0;3,0;0,0;2,0;11,0;0,0
+CE;PALMÁCIA;Parda;03;Feminino;4;3,0;0,0;0,0;0,0;3,0;0,0
+CE;PALMÁCIA;Parda;03;Masculino;2;18,0;4,0;0,0;1,0;13,0;0,0
+CE;PALMÁCIA;Preta;02;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;PARACURU;Amarela;04;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;PARACURU;Amarela;04;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;PARACURU;Branca;01;Feminino;4;12,0;1,0;0,0;6,0;5,0;0,0
+CE;PARACURU;Branca;01;Masculino;2;19,0;2,0;0,0;8,0;7,0;2,0
+CE;PARACURU;Parda;03;Feminino;4;43,0;1,0;0,0;14,0;28,0;0,0
+CE;PARACURU;Parda;03;Masculino;2;88,0;9,0;0,0;20,0;55,0;4,0
+CE;PARACURU;Preta;02;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;PARACURU;Preta;02;Masculino;2;2,0;0,0;0,0;0,0;2,0;0,0
+CE;PARAIPABA;Amarela;04;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;PARAIPABA;Branca;01;Feminino;4;12,0;1,0;0,0;2,0;8,0;1,0
+CE;PARAIPABA;Branca;01;Masculino;2;25,0;5,0;0,0;6,0;13,0;1,0
+CE;PARAIPABA;Parda;03;Feminino;4;29,0;0,0;0,0;9,0;20,0;0,0
+CE;PARAIPABA;Parda;03;Masculino;2;45,0;6,0;0,0;7,0;31,0;1,0
+CE;PARAIPABA;Preta;02;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;PARAIPABA;Preta;02;Masculino;2;6,0;1,0;0,0;3,0;2,0;0,0
+CE;PARAMBU;Branca;01;Feminino;4;5,0;1,0;0,0;1,0;3,0;0,0
+CE;PARAMBU;Branca;01;Masculino;2;11,0;5,0;0,0;2,0;4,0;0,0
+CE;PARAMBU;Parda;03;Feminino;4;7,0;1,0;0,0;2,0;3,0;1,0
+CE;PARAMBU;Parda;03;Masculino;2;13,0;6,0;0,0;2,0;4,0;1,0
+CE;PARAMBU;Preta;02;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;PARAMBU;Preta;02;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;PARAMOTI;Branca;01;Feminino;4;6,0;1,0;0,0;1,0;4,0;0,0
+CE;PARAMOTI;Branca;01;Masculino;2;5,0;2,0;0,0;0,0;3,0;0,0
+CE;PARAMOTI;Parda;03;Feminino;4;11,0;0,0;0,0;1,0;10,0;0,0
+CE;PARAMOTI;Parda;03;Masculino;2;28,0;6,0;0,0;4,0;17,0;1,0
+CE;PARAMOTI;Preta;02;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;PEDRA BRANCA;Branca;01;Feminino;4;9,0;1,0;0,0;3,0;5,0;0,0
+CE;PEDRA BRANCA;Branca;01;Masculino;2;19,0;7,0;0,0;3,0;8,0;1,0
+CE;PEDRA BRANCA;Parda;03;Feminino;4;14,0;1,0;0,0;5,0;8,0;0,0
+CE;PEDRA BRANCA;Parda;03;Masculino;2;25,0;4,0;0,0;8,0;12,0;1,0
+CE;PEDRA BRANCA;Preta;02;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;PENAFORTE;Branca;01;Feminino;4;3,0;0,0;0,0;0,0;3,0;0,0
+CE;PENAFORTE;Branca;01;Masculino;2;5,0;2,0;0,0;0,0;3,0;0,0
+CE;PENAFORTE;Parda;03;Feminino;4;8,0;0,0;0,0;0,0;8,0;0,0
+CE;PENAFORTE;Parda;03;Masculino;2;17,0;7,0;0,0;0,0;10,0;0,0
+CE;PENAFORTE;Preta;02;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;PENTECOSTE;Branca;01;Feminino;4;11,0;1,0;0,0;4,0;6,0;0,0
+CE;PENTECOSTE;Branca;01;Masculino;2;27,0;5,0;0,0;7,0;15,0;0,0
+CE;PENTECOSTE;Parda;03;Feminino;4;26,0;0,0;0,0;10,0;16,0;0,0
+CE;PENTECOSTE;Parda;03;Masculino;2;58,0;6,0;0,0;16,0;36,0;0,0
+CE;PENTECOSTE;Preta;02;Feminino;4;5,0;0,0;0,0;1,0;4,0;0,0
+CE;PENTECOSTE;Preta;02;Masculino;2;5,0;1,0;0,0;3,0;1,0;0,0
+CE;PEREIRO;Branca;01;Feminino;4;5,0;1,0;0,0;0,0;4,0;0,0
+CE;PEREIRO;Branca;01;Masculino;2;9,0;6,0;0,0;0,0;3,0;0,0
+CE;PEREIRO;Parda;03;Feminino;4;4,0;2,0;0,0;0,0;2,0;0,0
+CE;PEREIRO;Parda;03;Masculino;2;6,0;2,0;0,0;0,0;4,0;0,0
+CE;PINDORETAMA;Branca;01;Feminino;4;11,0;2,0;0,0;5,0;4,0;0,0
+CE;PINDORETAMA;Branca;01;Masculino;2;10,0;1,0;0,0;3,0;5,0;1,0
+CE;PINDORETAMA;Parda;03;Feminino;4;21,0;4,0;0,0;4,0;13,0;0,0
+CE;PINDORETAMA;Parda;03;Masculino;2;58,0;4,0;0,0;18,0;36,0;0,0
+CE;PINDORETAMA;Preta;02;Feminino;4;3,0;0,0;0,0;1,0;2,0;0,0
+CE;PINDORETAMA;Preta;02;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;PIQUET CARNEIRO;Branca;01;Feminino;4;10,0;0,0;0,0;4,0;6,0;0,0
+CE;PIQUET CARNEIRO;Branca;01;Masculino;2;16,0;5,0;0,0;3,0;8,0;0,0
+CE;PIQUET CARNEIRO;Parda;03;Feminino;4;8,0;0,0;0,0;4,0;4,0;0,0
+CE;PIQUET CARNEIRO;Parda;03;Masculino;2;18,0;6,0;0,0;9,0;2,0;1,0
+CE;PIQUET CARNEIRO;Preta;02;Masculino;2;2,0;0,0;0,0;1,0;1,0;0,0
+CE;PIRES FERREIRA;Branca;01;Feminino;4;4,0;1,0;0,0;0,0;3,0;0,0
+CE;PIRES FERREIRA;Branca;01;Masculino;2;6,0;2,0;0,0;3,0;1,0;0,0
+CE;PIRES FERREIRA;Parda;03;Feminino;4;6,0;2,0;0,0;2,0;2,0;0,0
+CE;PIRES FERREIRA;Parda;03;Masculino;2;10,0;4,0;0,0;1,0;5,0;0,0
+CE;PORANGA;Branca;01;Feminino;4;11,0;3,0;0,0;0,0;8,0;0,0
+CE;PORANGA;Branca;01;Masculino;2;8,0;2,0;0,0;0,0;6,0;0,0
+CE;PORANGA;Indígena;05;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;PORANGA;Parda;03;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;PORANGA;Parda;03;Masculino;2;11,0;4,0;0,0;1,0;6,0;0,0
+CE;PORANGA;Preta;02;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;PORANGA;Preta;02;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;PORTEIRAS;Branca;01;Feminino;4;5,0;2,0;0,0;0,0;3,0;0,0
+CE;PORTEIRAS;Branca;01;Masculino;2;10,0;2,0;0,0;0,0;8,0;0,0
+CE;PORTEIRAS;Parda;03;Feminino;4;5,0;0,0;0,0;0,0;5,0;0,0
+CE;PORTEIRAS;Parda;03;Masculino;2;10,0;6,0;0,0;0,0;4,0;0,0
+CE;PORTEIRAS;Preta;02;Masculino;2;2,0;1,0;0,0;0,0;1,0;0,0
+CE;POTENGI;Branca;01;Feminino;4;7,0;3,0;0,0;3,0;1,0;0,0
+CE;POTENGI;Branca;01;Masculino;2;6,0;0,0;0,0;6,0;0,0;0,0
+CE;POTENGI;Parda;03;Feminino;4;6,0;0,0;0,0;0,0;6,0;0,0
+CE;POTENGI;Parda;03;Masculino;2;14,0;5,0;0,0;1,0;8,0;0,0
+CE;POTENGI;Preta;02;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;POTENGI;Preta;02;Masculino;2;6,0;1,0;0,0;1,0;4,0;0,0
+CE;POTIRETAMA;Branca;01;Feminino;4;7,0;1,0;0,0;0,0;6,0;0,0
+CE;POTIRETAMA;Branca;01;Masculino;2;14,0;7,0;0,0;0,0;7,0;0,0
+CE;POTIRETAMA;Parda;03;Feminino;4;1,0;0,0;0,0;1,0;0,0;0,0
+CE;POTIRETAMA;Parda;03;Masculino;2;2,0;1,0;0,0;0,0;1,0;0,0
+CE;POTIRETAMA;Preta;02;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;QUITERIANÓPOLIS;Branca;01;Feminino;4;2,0;1,0;0,0;0,0;1,0;0,0
+CE;QUITERIANÓPOLIS;Branca;01;Masculino;2;4,0;0,0;0,0;1,0;3,0;0,0
+CE;QUITERIANÓPOLIS;Parda;03;Feminino;4;9,0;2,0;0,0;2,0;4,0;1,0
+CE;QUITERIANÓPOLIS;Parda;03;Masculino;2;15,0;8,0;0,0;2,0;5,0;0,0
+CE;QUITERIANÓPOLIS;Preta;02;Masculino;2;2,0;0,0;0,0;0,0;1,0;1,0
+CE;QUIXADÁ;Amarela;04;Feminino;4;3,0;0,0;0,0;0,0;3,0;0,0
+CE;QUIXADÁ;Amarela;04;Masculino;2;3,0;0,0;0,0;0,0;3,0;0,0
+CE;QUIXADÁ;Branca;01;Feminino;4;9,0;0,0;0,0;3,0;6,0;0,0
+CE;QUIXADÁ;Branca;01;Masculino;2;25,0;5,0;0,0;6,0;14,0;0,0
+CE;QUIXADÁ;Não Informado;06;Masculino;2;2,0;0,0;0,0;1,0;1,0;0,0
+CE;QUIXADÁ;Parda;03;Feminino;4;43,0;2,0;0,0;13,0;28,0;0,0
+CE;QUIXADÁ;Parda;03;Masculino;2;75,0;8,0;0,0;18,0;48,0;1,0
+CE;QUIXADÁ;Preta;02;Feminino;4;4,0;0,0;0,0;0,0;4,0;0,0
+CE;QUIXADÁ;Preta;02;Masculino;2;10,0;2,0;0,0;1,0;7,0;0,0
+CE;QUIXELÔ;Branca;01;Feminino;4;10,0;2,0;0,0;0,0;8,0;0,0
+CE;QUIXELÔ;Branca;01;Masculino;2;16,0;7,0;0,0;0,0;9,0;0,0
+CE;QUIXELÔ;Parda;03;Feminino;4;8,0;0,0;0,0;0,0;8,0;0,0
+CE;QUIXELÔ;Parda;03;Masculino;2;22,0;2,0;0,0;0,0;18,0;2,0
+CE;QUIXELÔ;Preta;02;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;QUIXERAMOBIM;Amarela;04;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;QUIXERAMOBIM;Amarela;04;Masculino;2;2,0;2,0;0,0;0,0;0,0;0,0
+CE;QUIXERAMOBIM;Branca;01;Feminino;4;18,0;2,0;0,0;4,0;12,0;0,0
+CE;QUIXERAMOBIM;Branca;01;Masculino;2;37,0;9,0;0,0;10,0;16,0;2,0
+CE;QUIXERAMOBIM;Indígena;05;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;QUIXERAMOBIM;Não divulgável;-4;Não divulgável;-4;3,0;0,0;0,0;0,0;0,0;3,0
+CE;QUIXERAMOBIM;Parda;03;Feminino;4;47,0;0,0;0,0;19,0;25,0;3,0
+CE;QUIXERAMOBIM;Parda;03;Masculino;2;83,0;4,0;0,0;35,0;41,0;3,0
+CE;QUIXERAMOBIM;Preta;02;Feminino;4;6,0;0,0;0,0;3,0;3,0;0,0
+CE;QUIXERAMOBIM;Preta;02;Masculino;2;12,0;0,0;0,0;3,0;7,0;2,0
+CE;QUIXERÉ;Branca;01;Feminino;4;7,0;2,0;0,0;0,0;4,0;1,0
+CE;QUIXERÉ;Branca;01;Masculino;2;9,0;6,0;0,0;0,0;3,0;0,0
+CE;QUIXERÉ;Parda;03;Feminino;4;6,0;1,0;0,0;1,0;3,0;1,0
+CE;QUIXERÉ;Parda;03;Masculino;2;13,0;1,0;0,0;0,0;12,0;0,0
+CE;QUIXERÉ;Preta;02;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;QUIXERÉ;Preta;02;Masculino;2;3,0;1,0;0,0;0,0;2,0;0,0
+CE;REDENÇÃO;Branca;01;Feminino;4;9,0;0,0;0,0;7,0;2,0;0,0
+CE;REDENÇÃO;Branca;01;Masculino;2;10,0;4,0;0,0;1,0;5,0;0,0
+CE;REDENÇÃO;Parda;03;Feminino;4;19,0;1,0;0,0;8,0;10,0;0,0
+CE;REDENÇÃO;Parda;03;Masculino;2;39,0;5,0;0,0;25,0;9,0;0,0
+CE;REDENÇÃO;Preta;02;Feminino;4;4,0;1,0;0,0;3,0;0,0;0,0
+CE;REDENÇÃO;Preta;02;Masculino;2;5,0;0,0;0,0;4,0;1,0;0,0
+CE;RERIUTABA;Branca;01;Feminino;4;7,0;2,0;0,0;1,0;4,0;0,0
+CE;RERIUTABA;Branca;01;Masculino;2;16,0;6,0;0,0;3,0;7,0;0,0
+CE;RERIUTABA;Parda;03;Feminino;4;6,0;1,0;0,0;3,0;2,0;0,0
+CE;RERIUTABA;Parda;03;Masculino;2;9,0;2,0;0,0;4,0;3,0;0,0
+CE;RERIUTABA;Preta;02;Feminino;4;1,0;0,0;0,0;1,0;0,0;0,0
+CE;RERIUTABA;Preta;02;Masculino;2;2,0;0,0;0,0;1,0;1,0;0,0
+CE;RUSSAS;Branca;01;Feminino;4;7,0;0,0;0,0;3,0;4,0;0,0
+CE;RUSSAS;Branca;01;Masculino;2;6,0;0,0;0,0;4,0;2,0;0,0
+CE;RUSSAS;Parda;03;Feminino;4;39,0;0,0;0,0;8,0;29,0;2,0
+CE;RUSSAS;Parda;03;Masculino;2;91,0;15,0;0,0;16,0;60,0;0,0
+CE;RUSSAS;Preta;02;Feminino;4;3,0;0,0;0,0;3,0;0,0;0,0
+CE;RUSSAS;Preta;02;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;SABOEIRO;Branca;01;Feminino;4;12,0;2,0;0,0;4,0;6,0;0,0
+CE;SABOEIRO;Branca;01;Masculino;2;19,0;8,0;0,0;4,0;7,0;0,0
+CE;SABOEIRO;Parda;03;Feminino;4;1,0;1,0;0,0;0,0;0,0;0,0
+CE;SABOEIRO;Parda;03;Masculino;2;8,0;0,0;0,0;1,0;6,0;1,0
+CE;SABOEIRO;Preta;02;Feminino;4;3,0;0,0;0,0;1,0;1,0;1,0
+CE;SABOEIRO;Preta;02;Masculino;2;3,0;0,0;0,0;3,0;0,0;0,0
+CE;SALITRE;Branca;01;Feminino;4;4,0;1,0;0,0;2,0;1,0;0,0
+CE;SALITRE;Branca;01;Masculino;2;2,0;0,0;0,0;0,0;2,0;0,0
+CE;SALITRE;Não Informado;06;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;SALITRE;Parda;03;Feminino;4;6,0;3,0;0,0;0,0;3,0;0,0
+CE;SALITRE;Parda;03;Masculino;2;12,0;7,0;0,0;1,0;4,0;0,0
+CE;SANTA QUITÉRIA;Branca;01;Feminino;4;13,0;3,0;0,0;0,0;8,0;2,0
+CE;SANTA QUITÉRIA;Branca;01;Masculino;2;8,0;1,0;0,0;0,0;7,0;0,0
+CE;SANTA QUITÉRIA;Parda;03;Feminino;4;13,0;0,0;0,0;2,0;10,0;1,0
+CE;SANTA QUITÉRIA;Parda;03;Masculino;2;37,0;9,0;0,0;0,0;26,0;2,0
+CE;SANTA QUITÉRIA;Preta;02;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;SANTA QUITÉRIA;Preta;02;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;SANTANA DO ACARAÚ;Branca;01;Feminino;4;4,0;0,0;0,0;0,0;4,0;0,0
+CE;SANTANA DO ACARAÚ;Branca;01;Masculino;2;16,0;7,0;0,0;3,0;6,0;0,0
+CE;SANTANA DO ACARAÚ;Parda;03;Feminino;4;20,0;2,0;0,0;6,0;12,0;0,0
+CE;SANTANA DO ACARAÚ;Parda;03;Masculino;2;39,0;4,0;0,0;10,0;24,0;1,0
+CE;SANTANA DO ACARAÚ;Preta;02;Feminino;4;6,0;0,0;0,0;1,0;5,0;0,0
+CE;SANTANA DO ACARAÚ;Preta;02;Masculino;2;4,0;0,0;0,0;1,0;3,0;0,0
+CE;SANTANA DO CARIRI;Branca;01;Feminino;4;4,0;1,0;0,0;1,0;1,0;1,0
+CE;SANTANA DO CARIRI;Branca;01;Masculino;2;4,0;1,0;0,0;1,0;2,0;0,0
+CE;SANTANA DO CARIRI;Indígena;05;Feminino;4;1,0;0,0;0,0;1,0;0,0;0,0
+CE;SANTANA DO CARIRI;Parda;03;Feminino;4;14,0;2,0;0,0;4,0;7,0;1,0
+CE;SANTANA DO CARIRI;Parda;03;Masculino;2;23,0;5,0;0,0;6,0;11,0;1,0
+CE;SANTANA DO CARIRI;Preta;02;Masculino;2;3,0;2,0;0,0;1,0;0,0;0,0
+CE;SENADOR POMPEU;Amarela;04;Feminino;4;1,0;0,0;0,0;1,0;0,0;0,0
+CE;SENADOR POMPEU;Amarela;04;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;SENADOR POMPEU;Branca;01;Feminino;4;8,0;1,0;0,0;2,0;5,0;0,0
+CE;SENADOR POMPEU;Branca;01;Masculino;2;13,0;5,0;0,0;3,0;5,0;0,0
+CE;SENADOR POMPEU;Parda;03;Feminino;4;9,0;0,0;0,0;5,0;4,0;0,0
+CE;SENADOR POMPEU;Parda;03;Masculino;2;20,0;2,0;0,0;13,0;5,0;0,0
+CE;SENADOR POMPEU;Preta;02;Feminino;4;3,0;1,0;0,0;1,0;1,0;0,0
+CE;SENADOR POMPEU;Preta;02;Masculino;2;8,0;2,0;0,0;1,0;5,0;0,0
+CE;SENADOR SÁ;Branca;01;Feminino;4;1,0;1,0;0,0;0,0;0,0;0,0
+CE;SENADOR SÁ;Branca;01;Masculino;2;1,0;0,0;0,0;0,0;0,0;1,0
+CE;SENADOR SÁ;Parda;03;Feminino;4;7,0;3,0;0,0;1,0;2,0;1,0
+CE;SENADOR SÁ;Parda;03;Masculino;2;17,0;5,0;0,0;3,0;8,0;1,0
+CE;SOBRAL;Amarela;04;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;SOBRAL;Branca;01;Feminino;4;27,0;2,0;0,0;8,0;15,0;2,0
+CE;SOBRAL;Branca;01;Masculino;2;44,0;14,0;0,0;6,0;24,0;0,0
+CE;SOBRAL;Parda;03;Feminino;4;28,0;1,0;0,0;10,0;17,0;0,0
+CE;SOBRAL;Parda;03;Masculino;2;64,0;3,0;0,0;29,0;31,0;1,0
+CE;SOBRAL;Preta;02;Feminino;4;4,0;0,0;0,0;1,0;3,0;0,0
+CE;SOBRAL;Preta;02;Masculino;2;8,0;1,0;0,0;3,0;4,0;0,0
+CE;SOLONÓPOLE;Branca;01;Feminino;4;8,0;0,0;0,0;1,0;7,0;0,0
+CE;SOLONÓPOLE;Branca;01;Masculino;2;15,0;8,0;0,0;1,0;6,0;0,0
+CE;SOLONÓPOLE;Parda;03;Feminino;4;9,0;1,0;0,0;4,0;4,0;0,0
+CE;SOLONÓPOLE;Parda;03;Masculino;2;13,0;2,0;0,0;5,0;4,0;2,0
+CE;SOLONÓPOLE;Preta;02;Masculino;2;6,0;0,0;0,0;0,0;6,0;0,0
+CE;SÃO BENEDITO;Amarela;04;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;SÃO BENEDITO;Branca;01;Feminino;4;12,0;2,0;0,0;3,0;5,0;2,0
+CE;SÃO BENEDITO;Branca;01;Masculino;2;23,0;4,0;0,0;7,0;8,0;4,0
+CE;SÃO BENEDITO;Indígena;05;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;SÃO BENEDITO;Parda;03;Feminino;4;9,0;3,0;0,0;5,0;1,0;0,0
+CE;SÃO BENEDITO;Parda;03;Masculino;2;20,0;4,0;0,0;7,0;9,0;0,0
+CE;SÃO BENEDITO;Preta;02;Feminino;4;1,0;0,0;0,0;1,0;0,0;0,0
+CE;SÃO GONÇALO DO AMARANTE;Branca;01;Feminino;4;6,0;1,0;0,0;4,0;1,0;0,0
+CE;SÃO GONÇALO DO AMARANTE;Branca;01;Masculino;2;13,0;2,0;0,0;2,0;9,0;0,0
+CE;SÃO GONÇALO DO AMARANTE;Parda;03;Feminino;4;55,0;2,0;0,0;10,0;43,0;0,0
+CE;SÃO GONÇALO DO AMARANTE;Parda;03;Masculino;2;90,0;8,0;0,0;21,0;59,0;2,0
+CE;SÃO GONÇALO DO AMARANTE;Preta;02;Feminino;4;1,0;0,0;0,0;1,0;0,0;0,0
+CE;SÃO GONÇALO DO AMARANTE;Preta;02;Masculino;2;8,0;0,0;0,0;2,0;6,0;0,0
+CE;SÃO JOÃO DO JAGUARIBE;Branca;01;Feminino;4;4,0;0,0;0,0;0,0;4,0;0,0
+CE;SÃO JOÃO DO JAGUARIBE;Branca;01;Masculino;2;4,0;2,0;0,0;0,0;2,0;0,0
+CE;SÃO JOÃO DO JAGUARIBE;Parda;03;Feminino;4;6,0;3,0;0,0;0,0;3,0;0,0
+CE;SÃO JOÃO DO JAGUARIBE;Parda;03;Masculino;2;12,0;3,0;0,0;0,0;8,0;1,0
+CE;SÃO JOÃO DO JAGUARIBE;Preta;02;Masculino;2;1,0;1,0;0,0;0,0;0,0;0,0
+CE;SÃO LUÍS DO CURU;Branca;01;Feminino;4;6,0;0,0;0,0;4,0;2,0;0,0
+CE;SÃO LUÍS DO CURU;Branca;01;Masculino;2;4,0;0,0;0,0;1,0;3,0;0,0
+CE;SÃO LUÍS DO CURU;Parda;03;Feminino;4;19,0;2,0;0,0;6,0;10,0;1,0
+CE;SÃO LUÍS DO CURU;Parda;03;Masculino;2;42,0;6,0;0,0;13,0;23,0;0,0
+CE;SÃO LUÍS DO CURU;Preta;02;Feminino;4;2,0;0,0;0,0;1,0;1,0;0,0
+CE;SÃO LUÍS DO CURU;Preta;02;Masculino;2;6,0;1,0;0,0;3,0;2,0;0,0
+CE;TABULEIRO DO NORTE;Branca;01;Feminino;4;7,0;1,0;0,0;0,0;6,0;0,0
+CE;TABULEIRO DO NORTE;Branca;01;Masculino;2;9,0;2,0;0,0;0,0;7,0;0,0
+CE;TABULEIRO DO NORTE;Parda;03;Feminino;4;8,0;1,0;0,0;0,0;7,0;0,0
+CE;TABULEIRO DO NORTE;Parda;03;Masculino;2;26,0;9,0;0,0;0,0;17,0;0,0
+CE;TABULEIRO DO NORTE;Preta;02;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;TAMBORIL;Branca;01;Feminino;4;4,0;0,0;0,0;3,0;1,0;0,0
+CE;TAMBORIL;Branca;01;Masculino;2;9,0;2,0;0,0;6,0;1,0;0,0
+CE;TAMBORIL;Parda;03;Feminino;4;18,0;0,0;0,0;9,0;7,0;2,0
+CE;TAMBORIL;Parda;03;Masculino;2;33,0;8,0;0,0;13,0;11,0;1,0
+CE;TAMBORIL;Preta;02;Feminino;4;3,0;0,0;0,0;3,0;0,0;0,0
+CE;TAMBORIL;Preta;02;Masculino;2;6,0;1,0;0,0;5,0;0,0;0,0
+CE;TARRAFAS;Branca;01;Feminino;4;8,0;2,0;0,0;3,0;3,0;0,0
+CE;TARRAFAS;Branca;01;Masculino;2;12,0;5,0;0,0;2,0;5,0;0,0
+CE;TARRAFAS;Parda;03;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;TARRAFAS;Parda;03;Masculino;2;6,0;2,0;0,0;1,0;3,0;0,0
+CE;TARRAFAS;Preta;02;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;TAUÁ;Branca;01;Feminino;4;21,0;0,0;0,0;3,0;18,0;0,0
+CE;TAUÁ;Branca;01;Masculino;2;20,0;9,0;0,0;3,0;8,0;0,0
+CE;TAUÁ;Parda;03;Feminino;4;5,0;1,0;0,0;2,0;2,0;0,0
+CE;TAUÁ;Parda;03;Masculino;2;26,0;4,0;0,0;3,0;19,0;0,0
+CE;TAUÁ;Preta;02;Feminino;4;2,0;0,0;0,0;2,0;0,0;0,0
+CE;TAUÁ;Preta;02;Masculino;2;9,0;1,0;0,0;6,0;2,0;0,0
+CE;TEJUÇUOCA;Amarela;04;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;TEJUÇUOCA;Branca;01;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;TEJUÇUOCA;Branca;01;Masculino;2;6,0;1,0;0,0;0,0;5,0;0,0
+CE;TEJUÇUOCA;Não Informado;06;Feminino;4;2,0;0,0;0,0;0,0;2,0;0,0
+CE;TEJUÇUOCA;Não Informado;06;Masculino;2;2,0;0,0;0,0;0,0;2,0;0,0
+CE;TEJUÇUOCA;Parda;03;Feminino;4;19,0;3,0;0,0;2,0;13,0;1,0
+CE;TEJUÇUOCA;Parda;03;Masculino;2;31,0;6,0;0,0;4,0;20,0;1,0
+CE;TEJUÇUOCA;Preta;02;Masculino;2;3,0;1,0;0,0;0,0;2,0;0,0
+CE;TIANGUÁ;Branca;01;Feminino;4;19,0;1,0;0,0;5,0;12,0;1,0
+CE;TIANGUÁ;Branca;01;Masculino;2;38,0;5,0;0,0;12,0;20,0;1,0
+CE;TIANGUÁ;Indígena;05;Feminino;4;1,0;0,0;0,0;1,0;0,0;0,0
+CE;TIANGUÁ;Parda;03;Feminino;4;25,0;1,0;0,0;5,0;16,0;3,0
+CE;TIANGUÁ;Parda;03;Masculino;2;34,0;8,0;0,0;4,0;18,0;4,0
+CE;TIANGUÁ;Preta;02;Masculino;2;5,0;0,0;0,0;1,0;3,0;1,0
+CE;TRAIRI;Branca;01;Feminino;4;16,0;2,0;0,0;2,0;12,0;0,0
+CE;TRAIRI;Branca;01;Masculino;2;26,0;6,0;0,0;2,0;18,0;0,0
+CE;TRAIRI;Parda;03;Feminino;4;14,0;2,0;0,0;1,0;11,0;0,0
+CE;TRAIRI;Parda;03;Masculino;2;33,0;5,0;0,0;4,0;23,0;1,0
+CE;TRAIRI;Preta;02;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;TRAIRI;Preta;02;Masculino;2;3,0;0,0;0,0;0,0;3,0;0,0
+CE;TURURU;Branca;01;Feminino;4;5,0;0,0;0,0;0,0;5,0;0,0
+CE;TURURU;Branca;01;Masculino;2;11,0;3,0;0,0;2,0;5,0;1,0
+CE;TURURU;Parda;03;Feminino;4;15,0;2,0;0,0;8,0;5,0;0,0
+CE;TURURU;Parda;03;Masculino;2;27,0;4,0;0,0;9,0;14,0;0,0
+CE;TURURU;Preta;02;Feminino;4;2,0;0,0;0,0;1,0;1,0;0,0
+CE;UBAJARA;Branca;01;Feminino;4;5,0;0,0;0,0;2,0;3,0;0,0
+CE;UBAJARA;Branca;01;Masculino;2;10,0;2,0;0,0;5,0;3,0;0,0
+CE;UBAJARA;Parda;03;Feminino;4;12,0;3,0;0,0;1,0;8,0;0,0
+CE;UBAJARA;Parda;03;Masculino;2;25,0;8,0;0,0;2,0;15,0;0,0
+CE;UBAJARA;Preta;02;Masculino;2;3,0;0,0;0,0;1,0;2,0;0,0
+CE;UMARI;Branca;01;Feminino;4;4,0;0,0;0,0;0,0;3,0;1,0
+CE;UMARI;Branca;01;Masculino;2;11,0;5,0;0,0;2,0;4,0;0,0
+CE;UMARI;Parda;03;Feminino;4;4,0;1,0;0,0;1,0;2,0;0,0
+CE;UMARI;Parda;03;Masculino;2;8,0;2,0;0,0;1,0;5,0;0,0
+CE;UMARI;Preta;02;Feminino;4;2,0;1,0;0,0;1,0;0,0;0,0
+CE;UMIRIM;Amarela;04;Masculino;2;1,0;1,0;0,0;0,0;0,0;0,0
+CE;UMIRIM;Branca;01;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;UMIRIM;Parda;03;Feminino;4;22,0;0,0;0,0;4,0;18,0;0,0
+CE;UMIRIM;Parda;03;Masculino;2;44,0;10,0;0,0;7,0;27,0;0,0
+CE;URUBURETAMA;Branca;01;Feminino;4;12,0;0,0;0,0;2,0;9,0;1,0
+CE;URUBURETAMA;Branca;01;Masculino;2;8,0;1,0;0,0;0,0;7,0;0,0
+CE;URUBURETAMA;Parda;03;Feminino;4;17,0;0,0;0,0;4,0;13,0;0,0
+CE;URUBURETAMA;Parda;03;Masculino;2;47,0;9,0;0,0;8,0;30,0;0,0
+CE;URUBURETAMA;Preta;02;Masculino;2;3,0;1,0;0,0;0,0;2,0;0,0
+CE;URUOCA;Branca;01;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;URUOCA;Branca;01;Masculino;2;2,0;1,0;0,0;0,0;1,0;0,0
+CE;URUOCA;Parda;03;Feminino;4;7,0;2,0;0,0;0,0;5,0;0,0
+CE;URUOCA;Parda;03;Masculino;2;12,0;6,0;0,0;0,0;6,0;0,0
+CE;URUOCA;Preta;02;Masculino;2;2,0;0,0;0,0;0,0;2,0;0,0
+CE;VARJOTA;Branca;01;Feminino;4;8,0;2,0;0,0;0,0;6,0;0,0
+CE;VARJOTA;Branca;01;Masculino;2;15,0;5,0;0,0;0,0;10,0;0,0
+CE;VARJOTA;Parda;03;Feminino;4;7,0;0,0;0,0;0,0;7,0;0,0
+CE;VARJOTA;Parda;03;Masculino;2;18,0;4,0;0,0;0,0;14,0;0,0
+CE;VIÇOSA DO CEARÁ;Branca;01;Feminino;4;12,0;1,0;0,0;4,0;5,0;2,0
+CE;VIÇOSA DO CEARÁ;Branca;01;Masculino;2;23,0;5,0;0,0;10,0;8,0;0,0
+CE;VIÇOSA DO CEARÁ;Indígena;05;Feminino;4;1,0;0,0;0,0;1,0;0,0;0,0
+CE;VIÇOSA DO CEARÁ;Indígena;05;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;VIÇOSA DO CEARÁ;Não divulgável;-4;Não divulgável;-4;6,0;0,0;0,0;0,0;0,0;6,0
+CE;VIÇOSA DO CEARÁ;Parda;03;Feminino;4;22,0;1,0;0,0;8,0;12,0;1,0
+CE;VIÇOSA DO CEARÁ;Parda;03;Masculino;2;46,0;7,0;0,0;18,0;20,0;1,0
+CE;VIÇOSA DO CEARÁ;Preta;02;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;VIÇOSA DO CEARÁ;Preta;02;Masculino;2;3,0;1,0;0,0;0,0;2,0;0,0
+CE;VÁRZEA ALEGRE;Branca;01;Feminino;4;9,0;3,0;0,0;1,0;5,0;0,0
+CE;VÁRZEA ALEGRE;Branca;01;Masculino;2;16,0;5,0;0,0;2,0;8,0;1,0
+CE;VÁRZEA ALEGRE;Parda;03;Feminino;4;6,0;1,0;0,0;0,0;5,0;0,0
+CE;VÁRZEA ALEGRE;Parda;03;Masculino;2;16,0;3,0;0,0;2,0;11,0;0,0
+CE;VÁRZEA ALEGRE;Preta;02;Feminino;4;2,0;0,0;0,0;1,0;1,0;0,0
+CE;VÁRZEA ALEGRE;Preta;02;Masculino;2;2,0;1,0;0,0;0,0;1,0;0,0

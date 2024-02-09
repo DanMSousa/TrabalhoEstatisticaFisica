@@ -1,0 +1,12 @@
+sg_uf;ds_cor_raca;cd_cor_raca;ds_sexo;cd_sexo;qt_candidato;qt_cand_eleitos;qt_cand_turno_2;qt_cand_nao_eleitos;qt_cand_suplentes;qt_cand_nao_informados
+CE;Amarela;04;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;Amarela;04;Masculino;2;1,0;0,0;0,0;1,0;0,0;0,0
+CE;Branca;01;Feminino;4;76,0;7,0;0,0;14,0;49,0;6,0
+CE;Branca;01;Masculino;2;148,0;24,0;0,0;23,0;92,0;9,0
+CE;Indígena;05;Feminino;4;1,0;0,0;0,0;0,0;1,0;0,0
+CE;Indígena;05;Masculino;2;1,0;0,0;0,0;0,0;1,0;0,0
+CE;Não divulgável;-4;Não divulgável;-4;1,0;0,0;0,0;0,0;0,0;1,0
+CE;Parda;03;Feminino;4;89,0;2,0;0,0;22,0;55,0;10,0
+CE;Parda;03;Masculino;2;203,0;12,0;0,0;45,0;125,0;21,0
+CE;Preta;02;Feminino;4;28,0;0,0;0,0;3,0;22,0;3,0
+CE;Preta;02;Masculino;2;24,0;1,0;0,0;9,0;13,0;1,0
